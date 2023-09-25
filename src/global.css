@@ -1,0 +1,65 @@
+@import url("https://fonts.googleapis.com/css2?family=Actor:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Fugaz+One:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+  background: rgb(1, 8, 17);
+  background: linear-gradient(
+    138deg,
+    rgba(1, 8, 17, 1) 0%,
+    rgba(26, 26, 49, 1) 35%,
+    rgba(8, 32, 65, 1) 100%
+  );
+}
+:root {
+  /* fonts */
+  --font-poppins: Poppins;
+  --font-fugaz-one: "Fugaz One";
+  --font-actor: Actor;
+
+  /* font sizes */
+  --font-size-xs: 0.75rem;
+  --font-size-3xs: 0.63rem;
+  --font-size-21xl: 2.5rem;
+  --font-size-base: 1rem;
+  --font-size-13xl: 2rem;
+  --font-size-xl: 1.25rem;
+  --font-size-29xl: 3rem;
+
+  /* Colors */
+  --color-white: #fff;
+  --blue: #0490ca;
+  --color-gray-100: #082041;
+  --color-gray-200: rgba(0, 0, 0, 0);
+
+  /* Gaps */
+  --gap-3xs: 0.63rem;
+  --gap-28xl: 2.94rem;
+  --gap-7xl: 1.63rem;
+  --gap-mini: 0.94rem;
+  --gap-38xl: 3.56rem;
+  --gap-base: 1rem;
+  --gap-17xl: 2.25rem;
+  --gap-81xl: 6.25rem;
+  --gap-64xl: 5.19rem;
+
+  /* Paddings */
+  --padding-12xs: 0.06rem;
+  --padding-16xl: 2.19rem;
+  --padding-53xl: 4.5rem;
+  --padding-71xl: 5.63rem;
+  --padding-73xl: 5.75rem;
+  --padding-72xl: 5.69rem;
+  --padding-172xl: 11.94rem;
+  --padding-160xl: 11.19rem;
+  --padding-11xl: 1.88rem;
+  --padding-249xl: 16.75rem;
+  --padding-574xl: 37.06rem;
+  --padding-921xl: 58.75rem;
+
+  /* Border radiuses */
+  --br-3xs: 10px;
+  --br-21xl: 40px;
+  --br-xl: 20px;
+}
