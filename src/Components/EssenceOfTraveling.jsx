@@ -1,10 +1,10 @@
-import styles from './EssenceOfTraveling.module.css'; // Import your styles
+import './EssenceOfTraveling.css'; // Import your styles
 import EssenceOfTravelingLeft from "./EssenceOfTraveling/EssenceOfTravelingLeft";
 import EssenceOfTravelingRight from "./EssenceOfTraveling/EssenceOfTravelingRight";
 
 function EssenceOfTraveling() {
   return (
-    <div className={styles.essenceoftraveling}>
+    <div className="essenceoftraveling">
       <EssenceOfTravelingLeft />
       <EssenceOfTravelingRight />
       
