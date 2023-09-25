@@ -1,0 +1,95 @@
+.frameChild {
+  position: relative;
+  border-radius: var(--br-3xs);
+  background-color: var(--blue);
+  width: 5rem;
+  height: 0.25rem;
+}
+.aFeeling {
+  position: relative;
+  text-transform: uppercase;
+}
+.frame2 {
+  width: 11.81rem;
+  height: 1.5rem;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-mini);
+  position: undefined;
+  margin-left: 0.56rem;
+}
+.frame1,
+.theCulturalWealth {
+  width: 34.44rem;
+  flex-shrink: 0;
+}
+.theCulturalWealth {
+  position: relative;
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-fugaz-one);
+  display: inline-block;
+  height: 2.69rem;
+}
+.frame1 {
+  height: 5.81rem;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-7xl);
+}
+.blankLine {
+  margin: 0;
+}
+.earthIsAContainer {
+  position: relative;
+  font-size: var(--font-size-base);
+  text-align: justify;
+  display: inline-block;
+  width: 32.25rem;
+  height: 16.31rem;
+  flex-shrink: 0;
+}
+.frame {
+  width: 26.19rem;
+  height: 25.06rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-28xl);
+  position: undefined;
+  margin-top: 1.13rem;
+}
+.frame,
+.right,
+.rightChild {
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.rightChild {
+  position: relative;
+  width: 32.25rem;
+  height: 25.38rem;
+  object-fit: cover;
+}
+.right {
+  align-self: stretch;
+  height: 37.5rem;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 var(--padding-73xl);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-actor);
+}
