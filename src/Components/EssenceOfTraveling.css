@@ -1,0 +1,11 @@
+/* EssenceOfTraveling.module.css */
+
+.essenceoftraveling {
+    height: 150rem;
+    flex-direction: column;
+    padding: var(--padding-53xl) var(--padding-71xl) 0;
+    font-size: var(--font-size-xl);
+    font-family: var(--font-actor);
+ 
+  }
+  
