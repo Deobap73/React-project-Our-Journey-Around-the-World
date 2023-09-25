@@ -6,13 +6,13 @@
       "country": "Peru",
       "city": "Cuzco",
       "facts": [
-        "I like soccer",
-        "My favorite food is feijoada",
-        "I have 2 dogs"
+        "Machu Picchu is made up of more than 150 buildings ranging from baths and houses to temples and sanctuaries",
+        "In the Quechua Indian language, “Machu Picchu” means “Old Peak” or “Old Mountain",
+        "Unfortunately, most cities built by the Inca civilization were destroyed by the Spanish conquest. Machu Picchu was in a hidden location—invisible from below—and not found, making it one of the most well-preserved Inca cities and an archeological gem"
       ],
-      "images1": "image8.jpg",
-      "images2": "image8.jpg",
-      "images3": "image9.jpg",
+      "images1": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Diego-Cuzco/adoceAngulos.webp?token=GHSAT0AAAAAACEDARCR2IP2HMT6E4H6FQZAZIRQMEA",
+      "images2": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Diego-Cuzco/bMachu.webp?token=GHSAT0AAAAAACEDARCQ33GXHIL4OTOLKHYKZIRQMUA",
+      "images3": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Diego-Cuzco/callendo.webp?token=GHSAT0AAAAAACEDARCRFAFAT6IWKV4ZVE6KZIRQOYA",
       "letterImage": "Image1.jpg"
     },
     {
@@ -21,11 +21,13 @@
       "country": "Italy",
       "city": "Rome",
       "facts": [
-        "I like going to the beach",
-        "My favorite drink is caipirinha",
-        "I have a cat"
+        "Nearly 700,000 euros worth of coins are tossed into Rome’s Trevi Fountain each year. The proceeds are donated to Caritas to help those in need.",
+        "Law in Rome allows cats to live without disruption in the place they were born. Wild cats can be climbing the walls of the Colosseum, and sleeping among the ruins of the Forum.",
+        "St Peter’s basilica inside Vatican City is the largest church ever constructed."
       ],
-      "images": ["image4.jpg", "image5.jpg", "image6.jpg"],
+      "images1": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Diego-Rome/TreviFountain.webp?token=GHSAT0AAAAAACEDARCR2RX2XWY5IBPPOUASZIRQPRQ",
+      "images2": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Diego-Rome/coliseo.webp?token=GHSAT0AAAAAACEDARCRJ7TPQA2FVCAK5ZESZIRQQRQ",
+      "images3": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Diego-Rome/pope.webp?token=GHSAT0AAAAAACEDARCQDGZCMVKG5ZIGOVI6ZIRQRCQ",
       "letterImage": "Image1.jpg"
     },
     {
@@ -33,10 +35,14 @@
       "userName": "Diego",
       "country": "Canada",
       "city": "Quebec",
-      "facts": ["I'm a software developer", "I like pizza", "I play guitar"],
-      "images1": "image8.jpg",
-      "images2": "image8.jpg",
-      "images3": "image9.jpg",
+      "facts": [
+        "Quebec is also one of the oldest European settlements in North America",
+        "Although Canada has both English and French as its official languages, Quebec is the only province that has only French as its official language.",
+        "Quebec has one of the world’s largest reserves of freshwater, occupying 12% of its surface. It has 3% of the world’s renewable freshwater, whereas it has only 0.1% of its population."
+      ],
+      "images1": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Diego-Quebec/Landscape.webp?token=GHSAT0AAAAAACEDARCQRVXRISSORTKIXROAZIRQ2ZQ",
+      "images2": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Diego-Quebec/Street.webp?token=GHSAT0AAAAAACEDARCQSK6SESVSR73HOQ2GZIRQ3QQ",
+      "images3": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Diego-Quebec/waterfall.webp?token=GHSAT0AAAAAACEDARCQ4AEKHEK6FCIKSNZQZIRQ34A",
       "letterImage": "Image1.jpg"
     },
     {
@@ -44,10 +50,14 @@
       "userName": "Diego",
       "country": "Spain",
       "city": "Madrid",
-      "facts": ["I'm a software developer", "I like pizza", "I play guitar"],
-      "images1": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Diego-Madrid/20220724_121825.webp?token=GHSAT0AAAAAACEDARCRPIE6DZW4AHN5ABHOZIP7UEA",
-      "images2": "image8.jpg",
-      "images3": "image9.jpg",
+      "facts": [
+        "Madrid was created around the year of 860 A.C.",
+        "According to FIFA, Real Madrid FC is the world's most successful football club of the 20th Century.",
+        "The name Madrid comes from the Arabic “magerit” which means ‘place of many streams"
+      ],
+      "images1": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Diego-Madrid/20220725_112752.webp?token=GHSAT0AAAAAACEDARCR2EIQUCEAZAACH4ZSZIRQBVA",
+      "images2": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Diego-Madrid/20220724_121825.webp?token=GHSAT0AAAAAACEDARCRFPSGMB7ZDPB5C25KZIRQGFQ",
+      "images3": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Diego-Madrid/20220725_105557.webp?token=GHSAT0AAAAAACEDARCRBFW2AHDNBNQR5KJSZIRQGWA",
       "letterImage": "Image1.jpg"
     },
     {
@@ -55,10 +65,14 @@
       "userName": "Diego",
       "country": "France",
       "city": "Paris",
-      "facts": ["I'm a software developer", "I like pizza", "I play guitar"],
-      "images1": "image8.jpg",
-      "images2": "image8.jpg",
-      "images3": "image9.jpg",
+      "facts": [
+        "Paris was originally a Roman City called “Lutetia.",
+        "The Eiffel Tower was supposed to be a temporary installation, intended to stand for 20 years after being built for the 1889 World Fair.",
+        "Mona Lisa rests inside a bullet-proof glass structure."
+      ],
+      "images1": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Diego-Paris/Eiffel.webp?token=GHSAT0AAAAAACEDARCRUEBX5PP2ZVVI2GQEZIRQR3Q",
+      "images2": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Diego-Paris/MonaLisa.webp?token=GHSAT0AAAAAACEDARCQNEULAZNRRI6VHHKAZIRQSPA",
+      "images3": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Diego-Paris/SacreCoeur.webp?token=GHSAT0AAAAAACEDARCRBFOYAD3EV7ZEA4L6ZIRQTBQ",
       "letterImage": "Image1.jpg"
     },
 
@@ -127,18 +141,33 @@
     },
 
     {
+      "id": "Deolindo_Porto ",
+      "userName": "Deolindo",
+      "country": "Portugal",
+      "city": "Porto",
+      "facts": [
+        "Porto is home to the famous Port wine cellars, dating back to the 17th century.",
+        "The Luís I Bridge, iconic in Porto, was designed by a disciple of Gustave Eiffel.",
+        "Porto is known for its popular S.João festival, where people spend the night on the street celebrating"
+      ],
+      "images1": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Deolindo_Porto/Porto-1.webp",
+      "images2": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Deolindo_Porto/Porto-2.webp",
+      "images3": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Deolindo_Porto/Porto_3.webp",
+      "letterImage": "Image1.jpg"
+    },
+    {
       "id": "Deolindo_New-York",
       "userName": "Deolindo",
       "country": "USA",
-      "city": "New-York",
+      "city": "New York",
       "facts": [
-        "I like soccer",
-        "My favorite food is feijoada",
-        "I have 2 dogs"
+        "In New York, the Statue of Liberty was a gift from France in 1886.",
+        "Central Park has more than 25,000 trees and is larger than the Principality of Monaco.",
+        "There is a building in New York with its own zip code, the Empire State Building."
       ],
-      "images1": "image8.jpg",
-      "images2": "image8.jpg",
-      "images3": "image9.jpg",
+      "images1": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Deolindo_NewYork/NewYork1.webp",
+      "images2": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Deolindo_NewYork/NewYork2.webp",
+      "images3": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Deolindo_NewYork/NewYork3.webp",
       "letterImage": "Image1.jpg"
     },
     {
@@ -147,35 +176,28 @@
       "country": "Czech Republic",
       "city": "Prague",
       "facts": [
-        "I like going to the beach",
-        "My favorite drink is caipirinha",
-        "I have a cat"
+        "Prague is called the 'City of a Hundred Towers' due to its many historical monuments.",
+        "The famous Prague Astronomical Clock was built in the 15th century and is still in operation.",
+        "Prague Castle is the largest ancient castle in the world, with an area of 70,000 square meters."
       ],
-      "images1": "image8.jpg",
-      "images2": "image8.jpg",
-      "images3": "image9.jpg",
-      "letterImage": "Image1.jpg"
-    },
-    {
-      "id": "Deolindo_Vaduz ",
-      "userName": "Deolindo",
-      "country": "Liechtenstein",
-      "city": "Vaduz",
-      "facts": ["I'm a software developer", "I like pizza", "I play guitar"],
-      "images1": "image8.jpg",
-      "images2": "image8.jpg",
-      "images3": "image9.jpg",
+      "images1": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Deolindo_Prag/Prag_1.webp",
+      "images2": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Deolindo_Prag/Prag_2.webp",
+      "images3": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Deolindo_Prag/Prag_3.webp",
       "letterImage": "Image1.jpg"
     },
     {
       "id": "Deolindo_London",
       "userName": "Deolindo",
-      "country": "Spain",
+      "country": "United Kingdom",
       "city": "London",
-      "facts": ["I'm a software developer", "I like pizza", "I play guitar"],
-      "images1": "image8.jpg",
-      "images2": "image8.jpg",
-      "images3": "image9.jpg",
+      "facts": [
+        "Big Ben is actually the name of the bell inside the famous clock at the Palace of Westminster.",
+        "London is the only city to host the modern Olympic Games three times (1908, 1948 and 2012).",
+        "The British Library in London has more than 150 million items in its collection."
+      ],
+      "images1": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Deolindo_London/London_1.webp",
+      "images2": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Deolindo_London/London_2.webp",
+      "images3": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Deolindo_London/London_3.webp",
       "letterImage": "Image1.jpg"
     },
     {
@@ -183,10 +205,10 @@
       "userName": "Deolindo",
       "country": "Italy",
       "city": "Venice",
-      "facts": ["I'm a software developer", "I like pizza", "I play guitar"],
-      "images1": "image8.jpg",
-      "images2": "image8.jpg",
-      "images3": "image9.jpg",
+      "facts": ["Venice is made up of 118 islands connected by more than 400 bridges.", "There are no cars in Venice; the city is crossed by canals and uses gondolas and boats.", "Venice sinks about an inch a year and is gradually sinking into the lagoon waters."],
+      "images1": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Deolindo_Venice/Venice_1.webp",
+      "images2": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Deolindo_Venice/Venice_2.webp",
+      "images3": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Deolindo_Venice/Venice_3.webp",
       "letterImage": "Image1.jpg"
     },
 
