@@ -35,11 +35,17 @@
       "userName": "Diego",
       "country": "Canada",
       "city": "Quebec",
+
       "facts": [
         "Quebec is also one of the oldest European settlements in North America",
         "Although Canada has both English and French as its official languages, Quebec is the only province that has only French as its official language.",
         "Quebec has one of the world’s largest reserves of freshwater, occupying 12% of its surface. It has 3% of the world’s renewable freshwater, whereas it has only 0.1% of its population."
       ],
+
+      "facts": ["Quebec is also one of the oldest European settlements in North America", 
+      "Although Canada has both English and French as its official languages, Quebec is the only province that has only French as its official language.",
+       "Quebec has one of the world’s largest reserves of freshwater, occupying 12% of its surface. It has 3% of the world’s renewable freshwater, whereas it has only 0.1% of its population."],
+
       "images1": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Diego-Quebec/Landscape.webp?token=GHSAT0AAAAAACEDARCQRVXRISSORTKIXROAZIRQ2ZQ",
       "images2": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Diego-Quebec/Street.webp?token=GHSAT0AAAAAACEDARCQSK6SESVSR73HOQ2GZIRQ3QQ",
       "images3": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Diego-Quebec/waterfall.webp?token=GHSAT0AAAAAACEDARCQ4AEKHEK6FCIKSNZQZIRQ34A",
@@ -50,11 +56,17 @@
       "userName": "Diego",
       "country": "Spain",
       "city": "Madrid",
+
       "facts": [
         "Madrid was created around the year of 860 A.C.",
         "According to FIFA, Real Madrid FC is the world's most successful football club of the 20th Century.",
         "The name Madrid comes from the Arabic “magerit” which means ‘place of many streams"
       ],
+
+      "facts": ["Madrid was created around the year of 860 A.C.", 
+      "According to FIFA, Real Madrid FC is the world's most successful football club of the 20th Century.", 
+      "The name Madrid comes from the Arabic “magerit” which means ‘place of many streams"],
+
       "images1": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Diego-Madrid/20220725_112752.webp?token=GHSAT0AAAAAACEDARCR2EIQUCEAZAACH4ZSZIRQBVA",
       "images2": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Diego-Madrid/20220724_121825.webp?token=GHSAT0AAAAAACEDARCRFPSGMB7ZDPB5C25KZIRQGFQ",
       "images3": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Diego-Madrid/20220725_105557.webp?token=GHSAT0AAAAAACEDARCRBFW2AHDNBNQR5KJSZIRQGWA",
@@ -65,11 +77,17 @@
       "userName": "Diego",
       "country": "France",
       "city": "Paris",
+
       "facts": [
         "Paris was originally a Roman City called “Lutetia.",
         "The Eiffel Tower was supposed to be a temporary installation, intended to stand for 20 years after being built for the 1889 World Fair.",
         "Mona Lisa rests inside a bullet-proof glass structure."
       ],
+
+      "facts": ["Paris was originally a Roman City called “Lutetia.",
+       "The Eiffel Tower was supposed to be a temporary installation, intended to stand for 20 years after being built for the 1889 World Fair.", 
+       "Mona Lisa rests inside a bullet-proof glass structure."],
+
       "images1": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Diego-Paris/Eiffel.webp?token=GHSAT0AAAAAACEDARCRUEBX5PP2ZVVI2GQEZIRQR3Q",
       "images2": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Diego-Paris/MonaLisa.webp?token=GHSAT0AAAAAACEDARCQNEULAZNRRI6VHHKAZIRQSPA",
       "images3": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Diego-Paris/SacreCoeur.webp?token=GHSAT0AAAAAACEDARCRBFOYAD3EV7ZEA4L6ZIRQTBQ",
