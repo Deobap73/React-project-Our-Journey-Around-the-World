@@ -14,12 +14,12 @@ function App() {
  
   return (
     <>
-     <h1>React-project-Our-Journey-Around-the-World</h1>
-     <Footer/>
+    
     {/* <NavigationBar/> */}
      <PlanetEarth/>
      <WorldMap/>
      <EssenceOfTraveling/>
+     <Footer/>
      
     </>
   )

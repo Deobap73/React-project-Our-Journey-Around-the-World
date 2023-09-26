@@ -12,16 +12,32 @@
   padding: 0;
   box-sizing: border-box;
   gap: var(--gap-17xl);
-  background: url('/Planet.mp4');
+  /* background: url('/Planet.mp4');
   background-size: cover;
   background-repeat: no-repeat;
-  background-position: top;
+  background-position: top; */
 }
 .home {
   position: relative;
   font-size: 2rem;
 }
 
+video {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.video-wrapper {
+  border: 2px solid #000;
+  width: 300px;
+  height: 300px;
+  position: relative;
+  overflow: hidden;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
 
 
 
