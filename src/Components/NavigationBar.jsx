@@ -1,10 +1,10 @@
+
 import React from "react";
 import "./NavigationBar.css"; 
 
 
 function NavigationBar() {
  
-
   return (
    <ul className="container" >
 <li> <a href="#">HOME</a> </li>
@@ -15,11 +15,8 @@ function NavigationBar() {
 <li> <a href="#">CONTACT</a></li>
 
    </ul>
-
-
   )
-
-
 }
 
 export default NavigationBar;
+
