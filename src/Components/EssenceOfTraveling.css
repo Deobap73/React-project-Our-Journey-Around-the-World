@@ -1,8 +1,9 @@
-/* EssenceOfTraveling.module.css */
+/* EssenceOfTraveling.css */
 
 .essenceoftraveling {
-    height: 150rem;
-    flex-direction: column;
+    height: 100rem;
+    display: flex;
+    flex-direction:row;
     padding: var(--padding-53xl) var(--padding-71xl) 0;
     font-size: var(--font-size-xl);
     font-family: var(--font-actor);

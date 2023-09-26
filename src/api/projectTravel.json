@@ -205,7 +205,11 @@
       "userName": "Deolindo",
       "country": "Italy",
       "city": "Venice",
-      "facts": ["Venice is made up of 118 islands connected by more than 400 bridges.", "There are no cars in Venice; the city is crossed by canals and uses gondolas and boats.", "Venice sinks about an inch a year and is gradually sinking into the lagoon waters."],
+      "facts": [
+        "Venice is made up of 118 islands connected by more than 400 bridges.",
+        "There are no cars in Venice; the city is crossed by canals and uses gondolas and boats.",
+        "Venice sinks about an inch a year and is gradually sinking into the lagoon waters."
+      ],
       "images1": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Deolindo_Venice/Venice_1.webp",
       "images2": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Deolindo_Venice/Venice_2.webp",
       "images3": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Deolindo_Venice/Venice_3.webp",
@@ -274,6 +278,57 @@
       "images2": "image8.jpg",
       "images3": "image9.jpg",
       "letterImage": "Image1.jpg"
+    }
+  ],
+
+  "data": [
+    {
+      "id": "left1",
+      "Statement": "Sua declaração aqui 1",
+      "Title": "Seu título aqui",
+      "Sentences": [
+        "Primeira sentença aqui",
+        "Segunda sentença aqui",
+        "Terceira sentença aqui"
+      ],
+      "Image": "Caminho para a imagem editada",
+      "Restaurar_original": "Caminho para a imagem original"
+    },
+    {
+      "id": "left2",
+      "Statement": "Sua declaração aqui 2",
+      "Title": "Seu título aqui",
+      "Sentences": [
+        "Primeira sentença aqui",
+        "Segunda sentença aqui",
+        "Terceira sentença aqui"
+      ],
+      "Image": "Caminho para a imagem editada",
+      "Restaurar_original": "Caminho para a imagem original"
+    },
+    {
+      "id": "Right1",
+      "Statement": "Sua declaração aqui 3",
+      "Title": "Seu título aqui",
+      "Sentences": [
+        "Primeira sentença aqui",
+        "Segunda sentença aqui",
+        "Terceira sentença aqui"
+      ],
+      "Image": "Caminho para a imagem editada",
+      "Restaurar_original": "Caminho para a imagem original"
+    },
+    {
+      "id": "Right2",
+      "Statement": "Sua declaração aqui 3",
+      "Title": "Seu título aqui",
+      "Sentences": [
+        "Primeira sentença aqui",
+        "Segunda sentença aqui",
+        "Terceira sentença aqui"
+      ],
+      "Image": "Caminho para a imagem editada",
+      "Restaurar_original": "Caminho para a imagem original"
     }
   ]
 }
