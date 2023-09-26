@@ -35,19 +35,11 @@
       "userName": "Diego",
       "country": "Canada",
       "city": "Quebec",
-
       "facts": [
         "Quebec is also one of the oldest European settlements in North America",
         "Although Canada has both English and French as its official languages, Quebec is the only province that has only French as its official language.",
         "Quebec has one of the world’s largest reserves of freshwater, occupying 12% of its surface. It has 3% of the world’s renewable freshwater, whereas it has only 0.1% of its population."
       ],
-
-      "facts": [
-        "Quebec is also one of the oldest European settlements in North America",
-        "Although Canada has both English and French as its official languages, Quebec is the only province that has only French as its official language.",
-        "Quebec has one of the world’s largest reserves of freshwater, occupying 12% of its surface. It has 3% of the world’s renewable freshwater, whereas it has only 0.1% of its population."
-      ],
-
       "images1": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Diego-Quebec/Landscape.webp?token=GHSAT0AAAAAACEDARCQRVXRISSORTKIXROAZIRQ2ZQ",
       "images2": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Diego-Quebec/Street.webp?token=GHSAT0AAAAAACEDARCQSK6SESVSR73HOQ2GZIRQ3QQ",
       "images3": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Diego-Quebec/waterfall.webp?token=GHSAT0AAAAAACEDARCQ4AEKHEK6FCIKSNZQZIRQ34A",
@@ -58,19 +50,11 @@
       "userName": "Diego",
       "country": "Spain",
       "city": "Madrid",
-
       "facts": [
         "Madrid was created around the year of 860 A.C.",
         "According to FIFA, Real Madrid FC is the world's most successful football club of the 20th Century.",
         "The name Madrid comes from the Arabic “magerit” which means ‘place of many streams"
       ],
-
-      "facts": [
-        "Madrid was created around the year of 860 A.C.",
-        "According to FIFA, Real Madrid FC is the world's most successful football club of the 20th Century.",
-        "The name Madrid comes from the Arabic “magerit” which means ‘place of many streams"
-      ],
-
       "images1": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Diego-Madrid/20220725_112752.webp?token=GHSAT0AAAAAACEDARCR2EIQUCEAZAACH4ZSZIRQBVA",
       "images2": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Diego-Madrid/20220724_121825.webp?token=GHSAT0AAAAAACEDARCRFPSGMB7ZDPB5C25KZIRQGFQ",
       "images3": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Diego-Madrid/20220725_105557.webp?token=GHSAT0AAAAAACEDARCRBFW2AHDNBNQR5KJSZIRQGWA",
@@ -81,13 +65,6 @@
       "userName": "Diego",
       "country": "France",
       "city": "Paris",
-
-      "facts": [
-        "Paris was originally a Roman City called “Lutetia.",
-        "The Eiffel Tower was supposed to be a temporary installation, intended to stand for 20 years after being built for the 1889 World Fair.",
-        "Mona Lisa rests inside a bullet-proof glass structure."
-      ],
-
       "facts": [
         "Paris was originally a Roman City called “Lutetia.",
         "The Eiffel Tower was supposed to be a temporary installation, intended to stand for 20 years after being built for the 1889 World Fair.",
@@ -99,20 +76,19 @@
       "images3": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Diego-Paris/SacreCoeur.webp?token=GHSAT0AAAAAACEDARCRBFOYAD3EV7ZEA4L6ZIRQTBQ",
       "letterImage": "Image1.jpg"
     },
-
     {
       "id": "Barbara_Salo",
       "userName": "Barbara",
       "country": "Italy",
       "city": "Salo",
       "facts": [
-        "I like soccer",
-        "My favorite food is feijoada",
-        "I have 2 dogs"
+        "This is my hometown.",
+        "A beautiful place on Lake Garda where you can fully experience Italian style.",
+        "Great for relaxing on the beach in summer and skiing on the many ski slopes in winter."
       ],
-      "images1": "image8.jpg",
-      "images2": "image8.jpg",
-      "images3": "image9.jpg",
+      "images1": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Barbara_Salo/salo_01.webp?token=GHSAT0AAAAAACGAD7CBK4SE6RAKC5KONKHCZIRUVMA",
+      "images2": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Barbara_Salo/salo_02.webp?token=GHSAT0AAAAAACGAD7CAYFHFVRY3VPWUV6NUZIRUVZA",
+      "images3": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Barbara_Salo/salo_03.webp?token=GHSAT0AAAAAACGAD7CAVOWCTPW5NRZQ6TU2ZIRUWEA",
       "letterImage": "Image1.jpg"
     },
     {
@@ -121,13 +97,13 @@
       "country": "Marocco",
       "city": "Dakhla",
       "facts": [
-        "I like going to the beach",
-        "My favorite drink is caipirinha",
-        "I have a cat"
+        "The southernmost point I reached traveling with my van.",
+        "On the western coast of the Sahara Desert you can walk on the dunes and admire the ocean.",
+        "Entering the covered market full of colors and scents of spices is an experience worth trying."
       ],
-      "images1": "image8.jpg",
-      "images2": "image8.jpg",
-      "images3": "image9.jpg",
+      "images1": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Barbara_Dakhla/dakhla_01.webp",
+      "images2": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Barbara_Dakhla/dakhla_02.webp",
+      "images3": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Barbara_Dakhla/dakhla_03.webp",
       "letterImage": "Image1.jpg"
     },
     {
@@ -135,10 +111,14 @@
       "userName": "Barbara",
       "country": "EStonia",
       "city": "Tallin",
-      "facts": ["I'm a software developer", "I like pizza", "I play guitar"],
-      "images1": "image8.jpg",
-      "images2": "image8.jpg",
-      "images3": "image9.jpg",
+      "facts": [
+        "The most northerly point I have reached traveling with my van.",
+        "Be fascinated by the typical Estonian rural taverns, windmills and watermills of the Open Air Museum.",
+        "Tallinn's atmospheric Old Town is a fascinating mix of medieval streets and spiers."
+      ],
+      "images1": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Barbara_Tallinn/tallinn_01.webp",
+      "images2": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Barbara_Tallinn/tallinn_02.webp",
+      "images3": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Barbara_Tallinn/tallinn_03.webp",
       "letterImage": "Image1.jpg"
     },
     {
@@ -146,10 +126,14 @@
       "userName": "Barbara",
       "country": "Spain",
       "city": "Tarifa",
-      "facts": ["I'm a software developer", "I like pizza", "I play guitar"],
-      "images1": "image8.jpg",
-      "images2": "image8.jpg",
-      "images3": "image9.jpg",
+      "facts": [
+        "The city of the wind.",
+        "The most loved place by windsurfing or kitesurfing enthusiasts.",
+        "The narrowest point in the Strait of Gibraltar, from its beaches you can see the coast of Morocco and the Rock of Gibraltar."
+      ],
+      "images1": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Barbara_Tarifa/tarifa-02.webp",
+      "images2": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Barbara_Tarifa/tarifa_01.webp",
+      "images3": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Barbara_Tarifa/tarifa_03.webp",
       "letterImage": "Image1.jpg"
     },
     {
@@ -157,13 +141,31 @@
       "userName": "Barbara",
       "country": "Germany",
       "city": "Helgoland",
-      "facts": ["I'm a software developer", "I like pizza", "I play guitar"],
-      "images1": "image8.jpg",
-      "images2": "image8.jpg",
-      "images3": "image9.jpg",
+      "facts": [
+        "Located on an island in the North Sea, it is about 70 kilometers from the coast.",
+        "The main island is made of red rock and the neighboring island is a small beach and bathing paradise.",
+        "You often have to share space with several gray seals."
+      ],
+      "images1": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Barbara_Helgoland/helgoland_01.webp",
+      "images2": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Barbara_Helgoland/helgoland_02.webp",
+      "images3": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Barbara_Helgoland/helgoland_03.webp",
       "letterImage": "Image1.jpg"
     },
-
+    {
+      "id": "Deolindo_Porto ",
+      "userName": "Deolindo",
+      "country": "Portugal",
+      "city": "Porto",
+      "facts": [
+        "Porto is home to the famous Port wine cellars, dating back to the 17th century.",
+        "The Luís I Bridge, iconic in Porto, was designed by a disciple of Gustave Eiffel.",
+        "Porto is known for its popular S.João festival, where people spend the night on the street celebrating"
+      ],
+      "images1": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Deolindo_Porto/Porto-1.webp",
+      "images2": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Deolindo_Porto/Porto-2.webp",
+      "images3": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Deolindo_Porto/Porto_3.webp",
+      "letterImage": "Image1.jpg"
+    },
     {
       "id": "Deolindo_Porto ",
       "userName": "Deolindo",
@@ -238,21 +240,20 @@
       "images2": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Deolindo_Venice/Venice_2.webp",
       "images3": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Deolindo_Venice/Venice_3.webp",
       "letterImage": "Image1.jpg"
-    },
-
+    },   
     {
       "id": "Masouma_Mexico-City",
       "userName": "Masouma",
       "country": "Mexico",
       "city": "Mexico-City",
       "facts": [
-        "I like soccer",
-        "My favorite food is feijoada",
-        "I have 2 dogs"
+        "Trying Tequila is a must",
+        "What a person can do all the time is eating Taccos and complain why they are gaining weight",
+        "It's a city of dance and dance and dance"
       ],
-      "images1": "image8.jpg",
-      "images2": "image8.jpg",
-      "images3": "image9.jpg",
+      "images1": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Masu-Mexico/3.webp",
+      "images2": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Masu-Mexico/IMG_20211106_103401.webp",
+      "images3": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Masu-Mexico/IMG_20211120_133134.webp",
       "letterImage": "Image1.jpg"
     },
     {
@@ -261,13 +262,13 @@
       "country": "Afghanistan",
       "city": "Herat",
       "facts": [
-        "I like going to the beach",
-        "My favorite drink is caipirinha",
-        "I have a cat"
+        "Hijab is mandatory for men and women",
+        "Afghanistan has beautiful nature which you can not find in internet",
+        "It is a country of no pet"
       ],
-      "images1": "image8.jpg",
-      "images2": "image8.jpg",
-      "images3": "image9.jpg",
+      "images1": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Masu-Afghanistan/1.webp",
+      "images2": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Masu-Afghanistan/2.webp",
+      "images3": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Masu-Afghanistan/3.webp",
       "letterImage": "Image1.jpg"
     },
     {
@@ -275,10 +276,14 @@
       "userName": "Masouma",
       "country": "United Arab Emirates",
       "city": "Dubai",
-      "facts": ["I'm a software developer", "I like pizza", "I play guitar"],
-      "images1": "image8.jpg",
-      "images2": "image8.jpg",
-      "images3": "image9.jpg",
+      "facts": [
+        "I's a live night country",
+        "Delicious Arab foods",
+        "It has multinational bars"
+      ],
+      "images1": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Masu-UAE/1.webp",
+      "images2": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Masu-UAE/2.webp",
+      "images3": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Masu-UAE/3.webp",
       "letterImage": "Image1.jpg"
     },
     {
@@ -286,10 +291,14 @@
       "userName": "Masouma",
       "country": "Netherlands",
       "city": "Amsterdam",
-      "facts": ["I'm a software developer", "I like pizza", "I play guitar"],
-      "images1": "image8.jpg",
-      "images2": "image8.jpg",
-      "images3": "image9.jpg",
+      "facts": [
+        "Everyone can speak English",
+        "Delicious panckakes",
+        "Amazing cheeze"
+      ],
+      "images1": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Masu-Netherlands/1.webp",
+      "images2": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Masu-Netherlands/2.webp",
+      "images3": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Masu-Netherlands/3.webp",
       "letterImage": "Image1.jpg"
     },
     {
@@ -297,10 +306,14 @@
       "userName": "Masouma",
       "country": "Montenegro",
       "city": "Kotor",
-      "facts": ["I'm a software developer", "I like pizza", "I play guitar"],
-      "images1": "image8.jpg",
-      "images2": "image8.jpg",
-      "images3": "image9.jpg",
+      "facts": [
+        "Second heaven",
+        "Quite",
+        "You will never have a clear vision of Montonegro, unless you go to the top of a mountain"
+      ],
+      "images1": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Masu-Montonegro/IMG_20221016_151926.webp",
+      "images2": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Masu-Montonegro/IMG_20221016_152020.webp",
+      "images3": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Masu-Montonegro/IMG_20221016_154203.webp",
       "letterImage": "Image1.jpg"
     }
   ],

@@ -1,26 +1,48 @@
-// \src\App.jsx
 
-
-import Footer from "./Components/Footer"
-import './App.css'
-import EssenceOfTraveling from './Components/EssenceOfTraveling'
-import NavigationBar from './Components/NavigationBar'
-import PlanetEarth from "./Components/PlanetEarth"
-import WorldMap from './Components/WorldMap'
-
+import "./App.css"
+import WorldMap from "./Components/WorldMap";
+import data from "./api/projectTravel.json";
+import CityContainer from "./Components/CityContainer";
+import { useState } from "react";
+import Footer from "./Components/Footer";
 
 function App() {
- 
+  const [selectedPerson, setSelectedPerson] = useState({});
+  const [popUp, setPopUp] = useState(false);
+  const [city, setCity] = useState(null);
+  const handlePersonClick = (person) => {
+    setSelectedPerson(person);
+  };
+
+  const handleCloseCard = () => {
+    setPopUp(!popUp);
+  };
+
+  const ShowPopUp = (city) => {
+    setPopUp(!popUp);
+    setCity(city);
+  };
+
   return (
     <>
-     <h1>React-project-Our-Journey-Around-the-World</h1>
-     <NavigationBar/>
-     <PlanetEarth/>
-     <WorldMap/>
-     <EssenceOfTraveling/>
-     <Footer/>
+     
+      <WorldMap
+        users={data.users}
+        onPersonClick={handlePersonClick}
+        onClick={ShowPopUp}
+      />
+      {popUp && (
+        <CityContainer
+          person={selectedPerson}
+          onClose={handleCloseCard}
+          popUp={popUp}
+          city={city}
+        />
+      )}
+    
+      <Footer/>
     </>
-  )
+  );
 }
 
-export default App
+export default App;
