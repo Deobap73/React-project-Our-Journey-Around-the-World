@@ -1,4 +1,19 @@
-.imageIcon {
+.left {
+  align-self: stretch;
+  width: 80%;
+  height: 37.5rem;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+   box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-actor);
+  padding: 0;
+}.imageIcon {
   position: relative;
   width: 32.25rem;
   height: 25.38rem;
@@ -70,18 +85,4 @@
   height: 25.06rem;
   gap: var(--gap-38xl);
 }
-.left {
-  align-self: stretch;
-  height: 33rem;
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  align-items: center;
-  justify-content: space-between;
-  padding: var(--padding-53xl) var(--padding-72xl);
-  box-sizing: border-box;
-  text-align: left;
-  font-size: var(--font-size-xl);
-  color: var(--color-white);
-  font-family: var(--font-actor);
-}
+

@@ -42,9 +42,11 @@
         "Quebec has one of the world’s largest reserves of freshwater, occupying 12% of its surface. It has 3% of the world’s renewable freshwater, whereas it has only 0.1% of its population."
       ],
 
-      "facts": ["Quebec is also one of the oldest European settlements in North America", 
-      "Although Canada has both English and French as its official languages, Quebec is the only province that has only French as its official language.",
-       "Quebec has one of the world’s largest reserves of freshwater, occupying 12% of its surface. It has 3% of the world’s renewable freshwater, whereas it has only 0.1% of its population."],
+      "facts": [
+        "Quebec is also one of the oldest European settlements in North America",
+        "Although Canada has both English and French as its official languages, Quebec is the only province that has only French as its official language.",
+        "Quebec has one of the world’s largest reserves of freshwater, occupying 12% of its surface. It has 3% of the world’s renewable freshwater, whereas it has only 0.1% of its population."
+      ],
 
       "images1": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Diego-Quebec/Landscape.webp?token=GHSAT0AAAAAACEDARCQRVXRISSORTKIXROAZIRQ2ZQ",
       "images2": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Diego-Quebec/Street.webp?token=GHSAT0AAAAAACEDARCQSK6SESVSR73HOQ2GZIRQ3QQ",
@@ -63,9 +65,11 @@
         "The name Madrid comes from the Arabic “magerit” which means ‘place of many streams"
       ],
 
-      "facts": ["Madrid was created around the year of 860 A.C.", 
-      "According to FIFA, Real Madrid FC is the world's most successful football club of the 20th Century.", 
-      "The name Madrid comes from the Arabic “magerit” which means ‘place of many streams"],
+      "facts": [
+        "Madrid was created around the year of 860 A.C.",
+        "According to FIFA, Real Madrid FC is the world's most successful football club of the 20th Century.",
+        "The name Madrid comes from the Arabic “magerit” which means ‘place of many streams"
+      ],
 
       "images1": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Diego-Madrid/20220725_112752.webp?token=GHSAT0AAAAAACEDARCR2EIQUCEAZAACH4ZSZIRQBVA",
       "images2": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Diego-Madrid/20220724_121825.webp?token=GHSAT0AAAAAACEDARCRFPSGMB7ZDPB5C25KZIRQGFQ",
@@ -84,9 +88,11 @@
         "Mona Lisa rests inside a bullet-proof glass structure."
       ],
 
-      "facts": ["Paris was originally a Roman City called “Lutetia.",
-       "The Eiffel Tower was supposed to be a temporary installation, intended to stand for 20 years after being built for the 1889 World Fair.", 
-       "Mona Lisa rests inside a bullet-proof glass structure."],
+      "facts": [
+        "Paris was originally a Roman City called “Lutetia.",
+        "The Eiffel Tower was supposed to be a temporary installation, intended to stand for 20 years after being built for the 1889 World Fair.",
+        "Mona Lisa rests inside a bullet-proof glass structure."
+      ],
 
       "images1": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Diego-Paris/Eiffel.webp?token=GHSAT0AAAAAACEDARCRUEBX5PP2ZVVI2GQEZIRQR3Q",
       "images2": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Diego-Paris/MonaLisa.webp?token=GHSAT0AAAAAACEDARCQNEULAZNRRI6VHHKAZIRQSPA",
@@ -302,51 +308,51 @@
   "data": [
     {
       "id": "left1",
-      "Statement": "Sua declaração aqui 1",
-      "Title": "Seu título aqui",
+      "Statement": "SENSES",
+      "Title": "Culture and Flavors",
       "Sentences": [
-        "Primeira sentença aqui",
-        "Segunda sentença aqui",
-        "Terceira sentença aqui"
+        "The cuisine reflects cultural diversity in a delicious way. From sophisticated French cuisine to the spicy flavors of Thai, each culture has its own delicacies and food preparation methods. Meals are about much more than just nutrition; they are celebrations of identity and cultural tradition",
+        "Art and music are profound expressions of the human soul. From Leonardo da Vinci's Renaissance paintings to ancient African sculptures, art connects us to the past and inspires us to create the future. Music transcends borders and languages, bringing joy and emotional expression to people of all backgrounds."
       ],
-      "Image": "Caminho para a imagem editada",
-      "Restaurar_original": "Caminho para a imagem original"
+      "Image": "Caminho para a imagem editada"
     },
     {
       "id": "left2",
-      "Statement": "Sua declaração aqui 2",
-      "Title": "Seu título aqui",
+      "Statement": "RESPONSIBILITY",
+      "Title": "Responsibility towards the Earth",
       "Sentences": [
-        "Primeira sentença aqui",
-        "Segunda sentença aqui",
-        "Terceira sentença aqui"
+        "As we celebrate the magnificence of the Earth and the richness of its cultures, we also recognize our shared responsibility to protect and preserve this legacy for future generations. ",
+        "Climate change, biodiversity loss and environmental degradation are critical challenges facing humanity. ",
+        "Educating future generations about the beauty of the Earth and the importance of cultural diversity is fundamental to protecting our planet."
       ],
-      "Image": "Caminho para a imagem editada",
-      "Restaurar_original": "Caminho para a imagem original"
+      "Image": "Caminho para a imagem editada"
     },
     {
       "id": "Right1",
-      "Statement": "Sua declaração aqui 3",
-      "Title": "Seu título aqui",
+      "Statement": "A FEELING",
+      "Title": "Human Cultural Diversity",
       "Sentences": [
-        "Primeira sentença aqui",
-        "Segunda sentença aqui",
-        "Terceira sentença aqui"
-      ],
-      "Image": "Caminho para a imagem editada",
-      "Restaurar_original": "Caminho para a imagem original"
+        "Earth is a mosaic of cultures, traditions and languages. Cultural diversity is one of our planet’s greatest assets. Each people and each community protected with its own history, art, music, cuisine and much more to the rich tapestry of human culture.",
+
+        "Linguistic diversity is a testament to this, with thousands of languages spoken across the world. From Italian to Arabic, from Spanish to Portuguese, each language is a window into a unique view of the world."
+
+    ],
+      "Image": "Caminho para a imagem editada"
     },
     {
       "id": "Right2",
-      "Statement": "Sua declaração aqui 3",
+      "Statement": "MANKIND",
       "Title": "Seu título aqui",
       "Sentences": [
-        "Primeira sentença aqui",
-        "Segunda sentença aqui",
-        "Terceira sentença aqui"
+        "Just as the Earth is rich in natural diversity, it is also rich in cultural diversity. Human culture is an expression of the creativity and diversity of the human mind, shaped by centuries of history, geography and experience. ",
+
+        "Tongues and Idioms: Earth is home to a vast diversity of languages, each with its own genetics.",
+
+        "Art that transcends borders and languages, allowing people to express their worldview. From sculptures to paintings, from architecture to performing arts. ",
+
+        "Music and dance are a universal language that transcends cultural barriers and reflects people's joy, sadness, celebration and history."
       ],
-      "Image": "Caminho para a imagem editada",
-      "Restaurar_original": "Caminho para a imagem original"
+      "Image": "Caminho para a imagem editada"
     }
   ]
 }
