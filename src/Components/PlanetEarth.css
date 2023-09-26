@@ -12,7 +12,7 @@
   padding: 0;
   box-sizing: border-box;
   gap: var(--gap-17xl);
-  background: url('../../public/Planet.mp4');
+  background: url('/Planet.mp4');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top;
@@ -503,7 +503,7 @@
   flex-direction: column;
   align-items: center;
   justify-content: flex-start;
-  background-image: url(/public/worldmap@3x.png);
+  background-image: url(/worldmap@3x.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top;
