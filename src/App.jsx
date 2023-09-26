@@ -2,6 +2,7 @@
 
 
 import Footer from "./Components/Footer"
+import NavigationBar from "./Components/NavigationBar"
 
 import './App.css'
 import EssenceOfTraveling from './Components/EssenceOfTraveling'
@@ -15,6 +16,7 @@ function App() {
   return (
     <>
      <h1>React-project-Our-Journey-Around-the-World</h1>
+     <NavigationBar/>
      <Footer/>
     {/* <NavigationBar/> */}
      <PlanetEarth/>
