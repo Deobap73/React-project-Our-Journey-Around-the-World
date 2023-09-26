@@ -1,25 +1,49 @@
-// \src\App.jsx
 
-import './App.css'
-import EssenceOfTraveling from './Components/EssenceOfTraveling'
-import NavigationBar from './Components/NavigationBar'
-import PlanetEarth from "./Components/PlanetEarth"
-import WorldMap from './Components/WorldMap'
-
+import "./App.css"
+import WorldMap from "./Components/WorldMap";
+import data from "./api/projectTravel.json";
+import CityContainer from "./Components/CityContainer";
+import { useState } from "react";
+import Footer from "./Components/Footer";
 
 
 function App() {
- 
+  const [selectedPerson, setSelectedPerson] = useState({});
+  const [popUp, setPopUp] = useState(false);
+  const [city, setCity] = useState(null);
+  const handlePersonClick = (person) => {
+    setSelectedPerson(person);
+  };
+
+  const handleCloseCard = () => {
+    setPopUp(!popUp);
+  };
+
+  const ShowPopUp = (city) => {
+    setPopUp(!popUp);
+    setCity(city);
+  };
 
   return (
     <>
-    {/* <NavigationBar/> */}
-     <PlanetEarth/>
-     <WorldMap/>
-     <EssenceOfTraveling/>
      
+      <WorldMap
+        users={data.users}
+        onPersonClick={handlePersonClick}
+        onClick={ShowPopUp}
+      />
+      {popUp && (
+        <CityContainer
+          person={selectedPerson}
+          onClose={handleCloseCard}
+          popUp={popUp}
+          city={city}
+        />
+      )}
+    
+      <Footer/>
     </>
-  )
+  );
 }
 
-export default App
+export default App;
