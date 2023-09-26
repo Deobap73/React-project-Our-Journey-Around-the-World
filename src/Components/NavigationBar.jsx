@@ -1,3 +1,4 @@
+
 import React from "react";
 import "./NavigationBar.css"; 
 
@@ -18,3 +19,4 @@ function NavigationBar() {
 }
 
 export default NavigationBar;
+

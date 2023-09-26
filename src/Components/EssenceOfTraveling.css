@@ -1,0 +1,16 @@
+/* EssenceOfTraveling.css */
+
+.essenceoftraveling {
+    height: 100rem;
+    display: flex;
+    flex-direction:column;
+    padding:0;
+    font-size: var(--font-size-xl);
+    font-family: var(--font-actor);
+ 
+  }
+
+  .Container {
+    width: 80%;
+  }
+  

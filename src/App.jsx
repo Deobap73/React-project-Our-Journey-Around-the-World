@@ -6,7 +6,6 @@ import CityContainer from "./Components/CityContainer";
 import { useState } from "react";
 import Footer from "./Components/Footer";
 
-
 function App() {
   const [selectedPerson, setSelectedPerson] = useState({});
   const [popUp, setPopUp] = useState(false);

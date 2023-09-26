@@ -70,6 +70,7 @@
         "The Eiffel Tower was supposed to be a temporary installation, intended to stand for 20 years after being built for the 1889 World Fair.",
         "Mona Lisa rests inside a bullet-proof glass structure."
       ],
+
       "images1": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Diego-Paris/Eiffel.webp?token=GHSAT0AAAAAACEDARCRUEBX5PP2ZVVI2GQEZIRQR3Q",
       "images2": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Diego-Paris/MonaLisa.webp?token=GHSAT0AAAAAACEDARCQNEULAZNRRI6VHHKAZIRQSPA",
       "images3": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Diego-Paris/SacreCoeur.webp?token=GHSAT0AAAAAACEDARCRBFOYAD3EV7ZEA4L6ZIRQTBQ",
@@ -148,6 +149,21 @@
       "images1": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Barbara_Helgoland/helgoland_01.webp",
       "images2": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Barbara_Helgoland/helgoland_02.webp",
       "images3": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Barbara_Helgoland/helgoland_03.webp",
+      "letterImage": "Image1.jpg"
+    },
+    {
+      "id": "Deolindo_Porto ",
+      "userName": "Deolindo",
+      "country": "Portugal",
+      "city": "Porto",
+      "facts": [
+        "Porto is home to the famous Port wine cellars, dating back to the 17th century.",
+        "The Luís I Bridge, iconic in Porto, was designed by a disciple of Gustave Eiffel.",
+        "Porto is known for its popular S.João festival, where people spend the night on the street celebrating"
+      ],
+      "images1": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Deolindo_Porto/Porto-1.webp",
+      "images2": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Deolindo_Porto/Porto-2.webp",
+      "images3": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Deolindo_Porto/Porto_3.webp",
       "letterImage": "Image1.jpg"
     },
     {

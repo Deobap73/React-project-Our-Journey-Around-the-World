@@ -5,12 +5,14 @@
   width: 28.13rem;
   height: 2.69rem;
   flex-shrink: 0;
+  color: white;
 }
 .chooseALocation {
   font-size: var(--font-size-base);
-  font-family: var(--font-actor);
+  font-family: Arial, Helvetica, sans-serif;
   text-align: center;
   height: 4.25rem;
+  color: white;
 }
 .planet {
   align-self: stretch;
@@ -36,357 +38,167 @@
   max-height: 100%;
   object-fit: cover;
 }
+
 .london,
 .madrid,
 .porto,
-.pragh {
-  cursor: pointer;
-  border: 0;
-  padding: 0;
-  background-color: var(--color-gray-200);
-  position: absolute;
-  top: 20.88rem;
-  left: 38.75rem;
-  width: 1.63rem;
-  height: 1.88rem;
-  overflow: hidden;
-}
-.london,
-.madrid,
-.pragh {
-  top: 21.5rem;
-  left: 39.94rem;
-  height: 2rem;
-}
-.london,
-.pragh {
-  top: 16.94rem;
-  left: 40.69rem;
-  height: 1.81rem;
-}
-.pragh {
-  top: 17.63rem;
-  left: 43.5rem;
-  height: 2.06rem;
-}
-.vectorIcon4 {
-  height: 100%;
-  width: 61.65%;
-  top: -28.65%;
-  right: 10.48%;
-  bottom: 28.65%;
-  left: 27.87%;
-  max-width: 100%;
-  max-height: 100%;
-  object-fit: cover;
-}
-.sal,
-.vectorIcon4,
-.vectorIcon5 {
-  position: absolute;
-  overflow: hidden;
-}
-.sal {
-  cursor: pointer;
-  border: 0;
-  padding: 0;
-  background-color: var(--color-gray-200);
-  top: 20.23rem;
-  left: 42.62rem;
-  width: 1.68rem;
-  height: 1.85rem;
-  transform: rotate(-33.39deg);
-  transform-origin: 0 0;
-}
-.vectorIcon5 {
-  height: 100%;
-  width: 56.25%;
-  top: 16.2%;
-  right: 35.85%;
-  bottom: -16.2%;
-  left: 7.9%;
-  max-width: 100%;
-  max-height: 100%;
-  object-fit: cover;
-}
+.pragh,
+.salo,
 .dakhla,
 .newyork,
 .tallin,
-.venice {
-  cursor: pointer;
-  border: 0;
-  padding: 0;
-  background-color: var(--color-gray-200);
-  position: absolute;
-  overflow: hidden;
-}
-.venice {
-  top: 19.15rem;
-  left: 44.54rem;
-  width: 1.65rem;
-  height: 1.88rem;
-  transform: rotate(24.4deg);
-  transform-origin: 0 0;
-}
-.dakhla,
-.newyork,
-.tallin {
-  top: 20.81rem;
-  left: 23.97rem;
-  width: 1.63rem;
-  height: 1.81rem;
-}
-.dakhla,
-.tallin {
-  top: 24rem;
-  left: 38.75rem;
-}
-.tallin {
-  top: 14.63rem;
-  left: 46.13rem;
-  height: 1.88rem;
-}
-.vectorIcon9 {
-  height: 93.96%;
-  width: 56.25%;
-  top: -8.35%;
-  right: 15.44%;
-  bottom: 14.39%;
-  left: 28.31%;
-  max-width: 100%;
-  max-height: 100%;
-  object-fit: cover;
-}
+.rome,
+.venice,
 .tarifa,
-.vectorIcon10,
-.vectorIcon9 {
-  position: absolute;
-  overflow: hidden;
-}
-.tarifa {
-  cursor: pointer;
-  border: 0;
-  padding: 0;
-  background-color: var(--color-gray-200);
-  top: 23.02rem;
-  left: 39.16rem;
-  width: 1.63rem;
-  height: 1.9rem;
-  transform: rotate(-17.92deg);
-  transform-origin: 0 0;
-}
-.vectorIcon10 {
-  height: 100%;
-  width: 59.03%;
-  top: 19.21%;
-  right: 40.98%;
-  bottom: -19.21%;
-  left: -0.01%;
-  max-width: 100%;
-  max-height: 100%;
-  object-fit: cover;
-}
-.helgoland {
-  cursor: pointer;
-  border: 0;
-  padding: 0;
-  background-color: var(--color-gray-200);
-  top: 15.24rem;
-  left: 43.05rem;
-  width: 1.66rem;
-  height: 1.86rem;
-  transform: rotate(29.51deg);
-  transform-origin: 0 0;
-}
 .cuzco,
 .helgoland,
-.rome,
-.vectorIcon11 {
-  position: absolute;
-  overflow: hidden;
-}
-.vectorIcon11 {
-  height: 92.38%;
-  width: 59.94%;
-  top: -115.13%;
-  right: 94.96%;
-  bottom: 122.75%;
-  left: -54.91%;
-  max-width: 100%;
-  max-height: 100%;
-  object-fit: cover;
-}
-.cuzco,
-.rome {
-  cursor: pointer;
-  border: 0;
-  padding: 0;
-  background-color: var(--color-gray-200);
-}
-.rome {
-  top: 24.57rem;
-  left: 44.68rem;
-  width: 1.68rem;
-  height: 1.85rem;
-  transform: rotate(-147.95deg);
-  transform-origin: 0 0;
-}
-.cuzco {
-  top: 36.88rem;
-  left: 23.97rem;
-  width: 1.63rem;
-  height: 1.69rem;
-}
-.vectorIcon13 {
-  height: 96%;
-  width: 68%;
-  top: 0;
-  right: 12%;
-  bottom: 4%;
-  left: 20%;
-  max-width: 100%;
-  max-height: 100%;
-  object-fit: cover;
-}
-.quebec,
-.vectorIcon13,
-.vectorIcon14 {
-  position: absolute;
-  overflow: hidden;
-}
+.vectorIcon11,
+.mexicocity,
+.paris,
+.amsterdam,
+.dubai,
+.kotor,
+.herat,
 .quebec {
   cursor: pointer;
   border: 0;
   padding: 0;
   background-color: var(--color-gray-200);
-  top: 18.81rem;
-  left: 24.09rem;
-  width: 1.63rem;
-  height: 1.69rem;
-}
-.vectorIcon14 {
-  height: 100%;
-  width: 56.25%;
-  top: 14.06%;
-  right: 33.01%;
-  bottom: -14.06%;
-  left: 10.74%;
-  max-width: 100%;
-  max-height: 100%;
-  object-fit: cover;
-}
-.mexicocity,
-.paris {
-  cursor: pointer;
-  border: 0;
-  padding: 0;
-  background-color: var(--color-gray-200);
   position: absolute;
-  width: 1.63rem;
   overflow: hidden;
+  top: 20.81rem;
+  left: 23.97rem;
+  width: 1.63rem;
+  height: 1.81rem;
 }
-.paris {
-  top: 18.38rem;
-  left: 41.83rem;
-  height: 1.89rem;
-  transform: rotate(20.9deg);
+
+/* Configuration of the position of the Pins in the map */
+
+.porto {
+  top: 33.8rem;
+  left: 36rem;
+  height: 2.06rem;
+}
+.madrid {
+  top: 34.5rem;
+  left: 37.8rem;
+  height: 2.06rem;
+}
+.london {
+  top: 27.8rem;
+  left: 39rem;
+  height: 2.06rem;
+}
+.pragh {
+  top: 28.63rem;
+  left: 43.5rem;
+  height: 2.06rem;
+}
+
+.salo {
+  top: 31.5rem;
+  left: 42.75rem;
+  height: 2.06rem;
+}
+.venice {
+  top: 32rem;
+  left: 45rem;
+  height: 2.06rem;
+ }
+
+.newyork {
+  top: 33.5rem;
+  left: 10.75rem;
+  height: 2.06rem;
+}
+.dakhla {
+  top: 38.5rem;
+  left: 35.75rem;
+  height: 2.06rem;
+}
+
+.tallin {
+  top: 24.63rem;
+  left: 48.5rem;
+  height: 2.06rem;
+}
+
+.tarifa {
+  top: 36.8rem;
+  left: 36.5rem;
+  height: 2.06rem;
+  transform: rotate(-17.92deg);
   transform-origin: 0 0;
 }
+.helgoland {
+  top: 25.24rem;
+  left: 43.05rem;
+  height: 2.06rem;
+  transform: rotate(29.51deg);
+  transform-origin: 0 0;
+}
+
+.rome {
+  top: 34rem;
+  left: 46rem;
+  height: 2.06rem;
+  
+}
+
+.cuzco {
+  top: 56.88rem;
+  left: 8.97rem;
+  height: 2.06rem;
+}
+
+.quebec {
+  top: 31rem;
+  left: 11rem;
+  height: 2.06rem;
+}
+
+.paris {
+  top: 30.38rem;
+  left: 40.5rem;
+  height: 2.06rem;
+  transform: rotate(354deg);
+  transform-origin: 0 0;
+}
+
 .mexicocity {
-  top: 28.31rem;
-  left: 17.91rem;
-  height: 1.69rem;
+  top: 45rem;
+  left: .5rem;
+  height: 2.06rem;
 }
-.vectorIcon16 {
-  height: 92%;
-  width: 58.12%;
-  top: 0;
-  right: 20%;
-  bottom: 8%;
-  left: 21.88%;
-  max-width: 100%;
-  max-height: 100%;
-  object-fit: cover;
-}
-.herat,
-.vectorIcon16,
-.vectorIcon17 {
-  position: absolute;
-  overflow: hidden;
-}
+
+
 .herat {
-  cursor: pointer;
-  border: 0;
-  padding: 0;
-  background-color: var(--color-gray-200);
-  top: 22.13rem;
-  left: 56.19rem;
-  width: 1.63rem;
-  height: 1.94rem;
+  top: 36.14rem;
+    left: 62.20rem;
+  height: 2.06rem;
 }
-.vectorIcon17 {
-  height: 100%;
-  width: 58.13%;
-  top: 0;
-  right: 21.88%;
-  bottom: 0;
-  left: 20%;
-  max-width: 100%;
-  max-height: 100%;
-  object-fit: cover;
-}
+
 .dubai {
-  cursor: pointer;
-  border: 0;
-  padding: 0;
-  background-color: var(--color-gray-200);
-  top: 26.06rem;
-  left: 54.31rem;
-  width: 1.56rem;
-  height: 1.88rem;
+  top: 41.5rem;
+  left: 62.5rem;
+  height: 2.06rem;
 }
-.amsterdam,
-.dubai,
-.kotor,
-.vectorIcon18 {
-  position: absolute;
-  overflow: hidden;
-}
-.vectorIcon18 {
-  height: 100%;
-  width: 56.25%;
-  top: -18.43%;
-  right: 16.04%;
-  bottom: 18.43%;
-  left: 27.71%;
-  max-width: 100%;
-  max-height: 100%;
-  object-fit: cover;
-}
-.amsterdam,
-.kotor {
-  cursor: pointer;
-  border: 0;
-  padding: 0;
-  background-color: var(--color-gray-200);
-}
+
 .amsterdam {
-  top: 16.72rem;
-  left: 41.6rem;
-  width: 1.64rem;
-  height: 1.89rem;
+  top: 28.72rem;
+  left: 41rem;
+  height: 2.06rem;
   transform: rotate(-22.74deg);
   transform-origin: 0 0;
 }
 .kotor {
-  top: 20.94rem;
-  left: 45.44rem;
-  width: 1.69rem;
-  height: 1.88rem;
+  top: 33.94rem;
+  left: 47.84rem;
+  height: 2.06rem;
 }
 .pins {
   position: relative;
-  width: 89.38rem;
+  width: 91.4rem;
   height: 61.31rem;
 }
 .leftChild,
@@ -398,14 +210,23 @@
 .worldmap {
   text-decoration: none;
   align-self: stretch;
-  height: 69.25rem;
+  height: 100rem;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: flex-start;
-  background-image: url(/public/worldmap@3x.png);
+  background-image: url(/worldmap@3x.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top;
   color: inherit;
 }
+
+
+
+
+
+
+
+
+

@@ -26,12 +26,14 @@ function WorldMap({ onClick }) {
         <button className={styles.pragh} onClick={()=>onClick('Prague')}>
           <img className={styles.vectorIcon} alt="" src="/vector3@2x.png" />
         </button>
-        <button className={styles.sal} onClick={()=>onClick('Salo')}>
-          <img className={styles.vectorIcon4} alt="" src="/vector4@2x.png" />
+
+        {/* !!!!!!! */}
+        {/* <button className={styles.salo} onClick={openCityContainer4}>
+          <img className={styles.vectorIcon} alt="" src="/vector4@2x.png" />
         </button>
-        <button className={styles.venice} onClick={()=>onClick('Venice')} >
-          <img className={styles.vectorIcon5} alt="" src="/vector5@2x.png" />
-        </button>
+        <button className={styles.venice} onClick={openCityContainer5}>
+          <img className={styles.vectorIcon} alt="" src="/vector5@2x.png" />
+        </button> */}
         <button className={styles.newyork} onClick={()=>onClick('New York')} >
           <img className={styles.vectorIcon} alt="" src="/vector6@2x.png" />
         </button>
