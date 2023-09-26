@@ -1,10 +1,11 @@
-
-import "./App.css"
+import "./App.css";
 import WorldMap from "./Components/WorldMap";
 import data from "./api/projectTravel.json";
 import CityContainer from "./Components/CityContainer";
 import { useState } from "react";
 import Footer from "./Components/Footer";
+import PlanetEarth from "./Components/PlanetEarth";
+import EssenceOfTraveling from "./Components/EssenceOfTraveling";
 
 function App() {
   const [selectedPerson, setSelectedPerson] = useState({});
@@ -25,7 +26,7 @@ function App() {
 
   return (
     <>
-     
+      <PlanetEarth />
       <WorldMap
         users={data.users}
         onPersonClick={handlePersonClick}
@@ -39,8 +40,10 @@ function App() {
           city={city}
         />
       )}
-    
-      <Footer/>
+
+      <EssenceOfTraveling />
+
+      <Footer />
     </>
   );
 }

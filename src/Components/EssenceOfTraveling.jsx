@@ -1,5 +1,5 @@
 
-import './EssenceOfTraveling.css';
+import './EssenceOfTraveling.scss';
 import EssenceOfTravelingLeft from "./EssenceOfTraveling/EssenceOfTravelingLeft";
 import EssenceOfTravelingRight from "./EssenceOfTraveling/EssenceOfTravelingRight";
 import data from "../api/projectTravel.json";
