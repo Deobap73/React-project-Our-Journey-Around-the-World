@@ -1,23 +1,21 @@
 // src/Components/PlanetEarth.jsx
 
-import planet from "../../public/Planet.mp4";
-import "./PlanetEarth.css"; // Import your styles
+import planet from "../assets/Planet.mp4";
+import "./PlanetEarth.scss"; // Import your styles
 
 function PlanetEarth({}) {
   return (
     <section className="planetearth">
       {/* <div class="video-wrapper"> */}
       <video
-        playsinline
-        autoplay
-        muted
-        loop
-        autoPlay="true"
-        src={planet}
-        type="video/mp4"
-        style={{ width: "100vw" }}
-      />
-      {/* </div> */}
+  playsinline
+  autoPlay
+  muted
+  loop
+  src={planet}
+  type="video/mp4"
+/>
+      
       <div className="section">
         <div className="main">
           <div className="home">Our Journey in the World</div>
@@ -39,7 +37,7 @@ function PlanetEarth({}) {
               </p>
               <p className="earthItsSomething"></p>
             </div>
-            <button className="button} onClick={onButtonClick">
+            <button className="button" >
               <div className="letsStart">Let's Start</div>
             </button>
           </div>
