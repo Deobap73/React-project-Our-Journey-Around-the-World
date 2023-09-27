@@ -7,6 +7,7 @@ function PlanetEarth({}) {
   return (
     <section className="planetearth">
       {/* <div class="video-wrapper"> */}
+      
       <video
   playsinline
   autoPlay
@@ -14,6 +15,8 @@ function PlanetEarth({}) {
   loop
   src={planet}
   type="video/mp4"
+
+  
 />
       
       <div className="section">

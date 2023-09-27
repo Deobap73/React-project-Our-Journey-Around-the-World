@@ -13,7 +13,7 @@
       "images1": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Diego-Cuzco/adoceAngulos.webp?token=GHSAT0AAAAAACEDARCR2IP2HMT6E4H6FQZAZIRQMEA",
       "images2": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Diego-Cuzco/bMachu.webp?token=GHSAT0AAAAAACEDARCQ33GXHIL4OTOLKHYKZIRQMUA",
       "images3": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Diego-Cuzco/callendo.webp?token=GHSAT0AAAAAACEDARCRFAFAT6IWKV4ZVE6KZIRQOYA",
-      "letterImage": "Image1.jpg"
+      "letterImage": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Letters/C_Cuzco.webp"
     },
     {
       "id": "Diego_Rome",
@@ -28,7 +28,7 @@
       "images1": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Diego-Rome/TreviFountain.webp?token=GHSAT0AAAAAACEDARCR2RX2XWY5IBPPOUASZIRQPRQ",
       "images2": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Diego-Rome/coliseo.webp?token=GHSAT0AAAAAACEDARCRJ7TPQA2FVCAK5ZESZIRQQRQ",
       "images3": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Diego-Rome/pope.webp?token=GHSAT0AAAAAACEDARCQDGZCMVKG5ZIGOVI6ZIRQRCQ",
-      "letterImage": "Image1.jpg"
+      "letterImage": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Letters/R_Rome.webp"
     },
     {
       "id": "Diego_Quebec",
@@ -43,7 +43,7 @@
       "images1": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Diego-Quebec/Landscape.webp?token=GHSAT0AAAAAACEDARCQRVXRISSORTKIXROAZIRQ2ZQ",
       "images2": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Diego-Quebec/Street.webp?token=GHSAT0AAAAAACEDARCQSK6SESVSR73HOQ2GZIRQ3QQ",
       "images3": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Diego-Quebec/waterfall.webp?token=GHSAT0AAAAAACEDARCQ4AEKHEK6FCIKSNZQZIRQ34A",
-      "letterImage": "Image1.jpg"
+      "letterImage": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Letters/Q_Quebec.webp"
     },
     {
       "id": "Diego_Madrid",
@@ -58,7 +58,7 @@
       "images1": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Diego-Madrid/20220725_112752.webp?token=GHSAT0AAAAAACEDARCR2EIQUCEAZAACH4ZSZIRQBVA",
       "images2": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Diego-Madrid/20220724_121825.webp?token=GHSAT0AAAAAACEDARCRFPSGMB7ZDPB5C25KZIRQGFQ",
       "images3": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Diego-Madrid/20220725_105557.webp?token=GHSAT0AAAAAACEDARCRBFW2AHDNBNQR5KJSZIRQGWA",
-      "letterImage": "Image1.jpg"
+      "letterImage": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Letters/M_Madrid.webp"
     },
     {
       "id": "Diego_Paris",
@@ -74,7 +74,7 @@
       "images1": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Diego-Paris/Eiffel.webp?token=GHSAT0AAAAAACEDARCRUEBX5PP2ZVVI2GQEZIRQR3Q",
       "images2": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Diego-Paris/MonaLisa.webp?token=GHSAT0AAAAAACEDARCQNEULAZNRRI6VHHKAZIRQSPA",
       "images3": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Diego-Paris/SacreCoeur.webp?token=GHSAT0AAAAAACEDARCRBFOYAD3EV7ZEA4L6ZIRQTBQ",
-      "letterImage": "Image1.jpg"
+      "letterImage": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Letters/P_Paris.webp"
     },
     {
       "id": "Barbara_Salo",
@@ -89,7 +89,7 @@
       "images1": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Barbara_Salo/salo_01.webp?token=GHSAT0AAAAAACGAD7CBK4SE6RAKC5KONKHCZIRUVMA",
       "images2": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Barbara_Salo/salo_02.webp?token=GHSAT0AAAAAACGAD7CAYFHFVRY3VPWUV6NUZIRUVZA",
       "images3": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Barbara_Salo/salo_03.webp?token=GHSAT0AAAAAACGAD7CAVOWCTPW5NRZQ6TU2ZIRUWEA",
-      "letterImage": "Image1.jpg"
+      "letterImage": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Letters/S_Salo.webp"
     },
     {
       "id": "Barbara_Dakhla",
@@ -104,7 +104,7 @@
       "images1": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Barbara_Dakhla/dakhla_01.webp",
       "images2": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Barbara_Dakhla/dakhla_02.webp",
       "images3": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Barbara_Dakhla/dakhla_03.webp",
-      "letterImage": "Image1.jpg"
+      "letterImage": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Letters/D_Dakhla.webp"
     },
     {
       "id": "Barbara_Tallin",
@@ -119,7 +119,7 @@
       "images1": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Barbara_Tallinn/tallinn_01.webp",
       "images2": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Barbara_Tallinn/tallinn_02.webp",
       "images3": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Barbara_Tallinn/tallinn_03.webp",
-      "letterImage": "Image1.jpg"
+      "letterImage": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Letters/T_Tallin.webp"
     },
     {
       "id": "Barbara_Tarifa",
@@ -134,7 +134,7 @@
       "images1": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Barbara_Tarifa/tarifa-02.webp",
       "images2": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Barbara_Tarifa/tarifa_01.webp",
       "images3": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Barbara_Tarifa/tarifa_03.webp",
-      "letterImage": "Image1.jpg"
+      "letterImage": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Letters/T_Tarifa.webp"
     },
     {
       "id": "Barbara_Helgoland",
@@ -149,7 +149,7 @@
       "images1": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Barbara_Helgoland/helgoland_01.webp",
       "images2": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Barbara_Helgoland/helgoland_02.webp",
       "images3": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Barbara_Helgoland/helgoland_03.webp",
-      "letterImage": "Image1.jpg"
+      "letterImage": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Letters/H_Helgoland.webp"
     },
     {
       "id": "Deolindo_Porto ",
@@ -164,22 +164,7 @@
       "images1": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Deolindo_Porto/Porto-1.webp",
       "images2": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Deolindo_Porto/Porto-2.webp",
       "images3": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Deolindo_Porto/Porto_3.webp",
-      "letterImage": "Image1.jpg"
-    },
-    {
-      "id": "Deolindo_Porto ",
-      "userName": "Deolindo",
-      "country": "Portugal",
-      "city": "Porto",
-      "facts": [
-        "Porto is home to the famous Port wine cellars, dating back to the 17th century.",
-        "The Luís I Bridge, iconic in Porto, was designed by a disciple of Gustave Eiffel.",
-        "Porto is known for its popular S.João festival, where people spend the night on the street celebrating"
-      ],
-      "images1": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Deolindo_Porto/Porto-1.webp",
-      "images2": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Deolindo_Porto/Porto-2.webp",
-      "images3": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Deolindo_Porto/Porto_3.webp",
-      "letterImage": "Image1.jpg"
+      "letterImage": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Letters/P_Porto.webp"
     },
     {
       "id": "Deolindo_New-York",
@@ -194,7 +179,7 @@
       "images1": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Deolindo_NewYork/NewYork1.webp",
       "images2": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Deolindo_NewYork/NewYork2.webp",
       "images3": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Deolindo_NewYork/NewYork3.webp",
-      "letterImage": "Image1.jpg"
+      "letterImage": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Letters/N_NewYork.webp"
     },
     {
       "id": "Deolindo_Prague",
@@ -209,7 +194,7 @@
       "images1": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Deolindo_Prag/Prag_1.webp",
       "images2": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Deolindo_Prag/Prag_2.webp",
       "images3": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Deolindo_Prag/Prag_3.webp",
-      "letterImage": "Image1.jpg"
+      "letterImage": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Letters/P_Prag.webp"
     },
     {
       "id": "Deolindo_London",
@@ -224,7 +209,7 @@
       "images1": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Deolindo_London/London_1.webp",
       "images2": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Deolindo_London/London_2.webp",
       "images3": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Deolindo_London/London_3.webp",
-      "letterImage": "Image1.jpg"
+      "letterImage": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Letters/L_London.webp"
     },
     {
       "id": "Deolindo_Venice",
@@ -239,8 +224,8 @@
       "images1": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Deolindo_Venice/Venice_1.webp",
       "images2": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Deolindo_Venice/Venice_2.webp",
       "images3": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Deolindo_Venice/Venice_3.webp",
-      "letterImage": "Image1.jpg"
-    },   
+      "letterImage": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Letters/V_Venice.webp"
+    },
     {
       "id": "Masouma_Mexico-City",
       "userName": "Masouma",
@@ -254,7 +239,7 @@
       "images1": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Masu-Mexico/3.webp",
       "images2": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Masu-Mexico/IMG_20211106_103401.webp",
       "images3": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Masu-Mexico/IMG_20211120_133134.webp",
-      "letterImage": "Image1.jpg"
+      "letterImage": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Letters/M_MexicoCity.webp"
     },
     {
       "id": "Masouma_Herat",
@@ -269,7 +254,7 @@
       "images1": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Masu-Afghanistan/1.webp",
       "images2": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Masu-Afghanistan/2.webp",
       "images3": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Masu-Afghanistan/3.webp",
-      "letterImage": "Image1.jpg"
+      "letterImage": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Letters/H_Harat.webp"
     },
     {
       "id": "Masouma_Dubai",
@@ -284,7 +269,7 @@
       "images1": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Masu-UAE/1.webp",
       "images2": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Masu-UAE/2.webp",
       "images3": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Masu-UAE/3.webp",
-      "letterImage": "Image1.jpg"
+      "letterImage": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Letters/D_Dubai.webp"
     },
     {
       "id": "Masouma_Amsterdam",
@@ -299,7 +284,7 @@
       "images1": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Masu-Netherlands/1.webp",
       "images2": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Masu-Netherlands/2.webp",
       "images3": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Masu-Netherlands/3.webp",
-      "letterImage": "Image1.jpg"
+      "letterImage": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Letters/A_Amsterdam.webp"
     },
     {
       "id": "Masouma_Kotor",
@@ -314,7 +299,7 @@
       "images1": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Masu-Montonegro/IMG_20221016_151926.webp",
       "images2": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Masu-Montonegro/IMG_20221016_152020.webp",
       "images3": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Masu-Montonegro/IMG_20221016_154203.webp",
-      "letterImage": "Image1.jpg"
+      "letterImage": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Letters/K_Kotor.webp"
     }
   ],
 
@@ -348,8 +333,7 @@
         "Earth is a mosaic of cultures, traditions and languages. Cultural diversity is one of our planet’s greatest assets. Each people and each community protected with its own history, art, music, cuisine and much more to the rich tapestry of human culture.",
 
         "Linguistic diversity is a testament to this, with thousands of languages spoken across the world. From Italian to Arabic, from Spanish to Portuguese, each language is a window into a unique view of the world."
-
-    ],
+      ],
       "Image": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/ImagesContent/AFelling.png"
     },
     {
