@@ -18,7 +18,7 @@ function PlanetEarth({}) {
 
   
 />
-      
+    
       <div className="section">
         <div className="main">
           <div className="home">Our Journey in the World</div>
