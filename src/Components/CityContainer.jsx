@@ -7,29 +7,33 @@ function CityContainer({ onClose, city }) {
 
   return (
     <div className="CityContainer">
-      <div className="CityContainer-content">
+      <main className="CityContainer-content">
         <span className="CloseButton" onClick={onClose}>
           X
         </span>
-        <div className="LetterContainer-box">
-        <img src={cityData?.letterImage} alt={cityData.city} />
-        </div>
-        <h2>
-          {cityData?.city}
-          <span>{cityData?.country}</span>
-        </h2>
-
+        <header>
+          <div className="LetterContainer-box">
+            <img src={cityData?.letterImage} alt={cityData.city} />
+          </div>
+          <div>
+            <h2>{cityData?.userName}'s journey</h2>
+            <div className="City-title">
+              <h1>{cityData?.city}</h1>
+              <span>{cityData?.country}</span>
+            </div>
+          </div>
+        </header>
         <ul>
           {cityData?.facts?.map((fact, index) => (
             <li key={index}>{fact}</li>
           ))}
         </ul>
-        <div className="CityContainer-photos">
+        <section className="CityContainer-photos">
           <img src={cityData?.images1} alt={cityData.city} />
           <img src={cityData?.images2} alt={cityData.city} />
           <img src={cityData?.images3} alt={cityData.city} />
-        </div>
-      </div>
+        </section>
+      </main>
     </div>
   );
 }
