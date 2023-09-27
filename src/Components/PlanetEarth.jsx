@@ -14,6 +14,8 @@ function PlanetEarth({}) {
   loop
   src={planet}
   type="video/mp4"
+
+  
 />
       
       <div className="section">

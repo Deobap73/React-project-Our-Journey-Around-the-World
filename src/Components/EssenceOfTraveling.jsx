@@ -1,4 +1,4 @@
-
+// src/Components/EssenceOfTraveling.jsx
 import './EssenceOfTraveling.scss';
 import EssenceOfTravelingLeft from "./EssenceOfTraveling/EssenceOfTravelingLeft";
 import EssenceOfTravelingRight from "./EssenceOfTraveling/EssenceOfTravelingRight";
@@ -7,8 +7,9 @@ import data from "../api/projectTravel.json";
 function EssenceOfTraveling() {
   let isLeft = true; // Variable to track the current type
 
+ 
   return (
-    <div className="essenceoftraveling">
+    <div id="essenceOfTraveling" className="essenceoftraveling">
       {data.data.map((item) => {
         // Determine which component to render based on isLeft variable
         const ComponentToRender = isLeft

@@ -11,7 +11,9 @@ function CityContainer({ onClose, city }) {
         <span className="CloseButton" onClick={onClose}>
           X
         </span>
-
+        <div className="LetterContainer-box">
+        <img src={cityData?.letterImage} alt={cityData.city} />
+        </div>
         <h2>
           {cityData?.city}
           <span>{cityData?.country}</span>
