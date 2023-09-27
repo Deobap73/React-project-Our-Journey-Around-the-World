@@ -7,6 +7,7 @@ function PlanetEarth({}) {
   return (
     <section className="planetearth">
       {/* <div class="video-wrapper"> */}
+      
       <video
   playsinline
   autoPlay
