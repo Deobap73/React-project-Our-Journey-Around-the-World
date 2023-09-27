@@ -1,0 +1,232 @@
+.chooseALocation,
+.comeSeeThe {
+  position: relative;
+  display: inline-block;
+  width: 28.13rem;
+  height: 2.69rem;
+  flex-shrink: 0;
+  color: white;
+}
+.chooseALocation {
+  font-size: var(--font-size-base);
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  height: 4.25rem;
+  color: white;
+}
+.planet {
+  align-self: stretch;
+  height: 7.94rem;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+}
+.vectorIcon {
+  position: absolute;
+  height: 100%;
+  width: 56.25%;
+  top: 0;
+  right: 21.88%;
+  bottom: 0;
+  left: 21.88%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+
+.london,
+.madrid,
+.porto,
+.pragh,
+.salo,
+.dakhla,
+.newyork,
+.tallin,
+.rome,
+.venice,
+.tarifa,
+.cuzco,
+.helgoland,
+.vectorIcon11,
+.mexicocity,
+.paris,
+.amsterdam,
+.dubai,
+.kotor,
+.herat,
+.quebec {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-gray-200);
+  position: absolute;
+  overflow: hidden;
+  top: 20.81rem;
+  left: 23.97rem;
+  width: 1.63rem;
+  height: 1.81rem;
+}
+
+/* Configuration of the position of the Pins in the map */
+
+.porto {
+  top: 33.8rem;
+  left: 36rem;
+  height: 2.06rem;
+}
+.madrid {
+  top: 34.5rem;
+  left: 37.8rem;
+  height: 2.06rem;
+}
+.london {
+  top: 27.8rem;
+  left: 39rem;
+  height: 2.06rem;
+}
+.pragh {
+  top: 28.63rem;
+  left: 43.5rem;
+  height: 2.06rem;
+}
+
+.salo {
+  top: 31.5rem;
+  left: 42.75rem;
+  height: 2.06rem;
+}
+.venice {
+  top: 32rem;
+  left: 45rem;
+  height: 2.06rem;
+ }
+
+.newyork {
+  top: 33.5rem;
+  left: 10.75rem;
+  height: 2.06rem;
+}
+.dakhla {
+  top: 38.5rem;
+  left: 35.75rem;
+  height: 2.06rem;
+}
+
+.tallin {
+  top: 24.63rem;
+  left: 48.5rem;
+  height: 2.06rem;
+}
+
+.tarifa {
+  top: 36.8rem;
+  left: 36.5rem;
+  height: 2.06rem;
+  transform: rotate(-17.92deg);
+  transform-origin: 0 0;
+}
+.helgoland {
+  top: 25.24rem;
+  left: 43.05rem;
+  height: 2.06rem;
+  transform: rotate(29.51deg);
+  transform-origin: 0 0;
+}
+
+.rome {
+  top: 34rem;
+  left: 46rem;
+  height: 2.06rem;
+  
+}
+
+.cuzco {
+  top: 56.88rem;
+  left: 8.97rem;
+  height: 2.06rem;
+}
+
+.quebec {
+  top: 31rem;
+  left: 11rem;
+  height: 2.06rem;
+}
+
+.paris {
+  top: 30.38rem;
+  left: 40.5rem;
+  height: 2.06rem;
+  transform: rotate(354deg);
+  transform-origin: 0 0;
+}
+
+.mexicocity {
+  top: 45rem;
+  left: .5rem;
+  height: 2.06rem;
+}
+
+
+.herat {
+  top: 36.14rem;
+    left: 62.20rem;
+  height: 2.06rem;
+}
+
+.dubai {
+  top: 41.5rem;
+  left: 62.5rem;
+  height: 2.06rem;
+}
+
+.amsterdam {
+  top: 28.72rem;
+  left: 41rem;
+  height: 2.06rem;
+  transform: rotate(-22.74deg);
+  transform-origin: 0 0;
+}
+.kotor {
+  top: 33.94rem;
+  left: 47.84rem;
+  height: 2.06rem;
+}
+.pins {
+  position: relative;
+  width: 91.4rem;
+  height: 61.31rem;
+}
+.leftChild,
+.pins,
+.worldmap {
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.worldmap {
+  text-decoration: none;
+  align-self: stretch;
+  height: 100rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  background-image: url(/worldmap@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  color: inherit;
+}
+
+
+
+
+
+
+
+
+
