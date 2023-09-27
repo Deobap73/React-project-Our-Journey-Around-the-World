@@ -1,15 +1,15 @@
 // src/Components/PlanetEarth.jsx
 
-import planet from "../assets/Planet.mp4";
+import planet from "../assets/ezgif.com-crop.mp4";
 import "./PlanetEarth.scss"; // Import your styles
 
 function PlanetEarth({}) {
   return (
-    <section className="planetearth">
+    <section className="planetEarthHome">
       {/* <div class="video-wrapper"> */}
       
       <video
-  playsinline
+  playsInline
   autoPlay
   muted
   loop
@@ -19,10 +19,10 @@ function PlanetEarth({}) {
   
 />
     
-      <div className="section">
-        <div className="main">
+      <div className="sectionHome">
+        <div className="mainHome">
           <div className="home">Our Journey in the World</div>
-          <div className="frame">
+          <div className="frameHome">
             <div className="earthItsSomethingContainer">
               <p className="earthItsSomething">
                 Earth! It's something that never ceases to surprise us. With its

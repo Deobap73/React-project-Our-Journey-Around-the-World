@@ -3,30 +3,30 @@ import "./NavigationBar.css";
 
 function NavigationBar() {
   return (
-    <ul className="container">
+    <ul className="navigationBar">
       <li>
         {" "}
-        <Link to="/">HOME</Link>{" "}
+        <Link to="/">Home</Link>{" "}
       </li>
       <li>
         {" "}
-        <Link to="/about">ABOUT US</Link>
+        <Link to="/aboutUs">AboutUs</Link>
       </li>
       <li>
         {" "}
-        <Link to="/project">THE PROJECT</Link>
+        <Link to="/project">TheProject</Link>
       </li>
       <li>
         {" "}
-        <Link to="/location">LOCATIONS</Link>
+        <Link to="/locations">Locations</Link>
       </li>
       <li>
         {" "}
-        <Link to="/gallery">GALLERY</Link>
+        <Link to="/gallery">Gallery</Link>
       </li>
       <li>
         {" "}
-        <Link to="/contact">CONTACT</Link>
+        <Link to="/contact">Contact</Link>
       </li>
     </ul>
   );

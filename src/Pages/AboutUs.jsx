@@ -1,15 +1,16 @@
-import "./AboutUs.scss"; // Import your styles
+import './Pages.css'; // Import your styles
+import planet from "../assets/ezgif.com-crop.mp4";
 
 export const AboutUs = () => {
   return (
-    <section className="planetearth">
+   <section className="planetEarth"> 
       {/* <div class="video-wrapper"> */}
 
-      <video playsinline autoPlay muted loop src={planet} type="video/mp4" />
+      <video playsInline autoPlay muted loop src={planet} type="video/mp4" />
 
       <div className="section">
         <div className="main">
-          <div className="home">ABOUt US</div>
+          <div className="home">About Us</div>
           <div className="frame">
             <div className="earthItsSomethingContainer">
               <p className="earthItsSomething">
