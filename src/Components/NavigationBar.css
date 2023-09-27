@@ -1,19 +1,12 @@
-
 .container {
-
-    list-Style-Type: none;
-    display: flex; 
-    flex-direction: row; 
-    justify-content: space-around; 
-    align-Items: center;
-    height: 9rem;
-
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  height: 9rem;
 }
 
 a {
-    text-decoration: none;
-
+  text-decoration: none;
 }
-    
-
-
