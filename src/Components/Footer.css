@@ -1,31 +1,25 @@
-
 .container {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
 
-    list-Style-Type: none;
-    display: flex; 
-    flex-direction: row; 
-    justify-content: space-around; 
-    align-Items: center;
-    background-color: #071c38;
-    color: white;
-
+  color: white;
 }
 
-.imageHolder { 
-    position: relative;
-    max-width: 100%;
+.imageHolder {
+  position: relative;
+  max-width: 100%;
 }
-    
-    .thanks { 
-    
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%,-80%);
-    color: white;
-    text-Align: center;
-    Font-Weight: bold; 
-    font-size: 30px;
 
-
+.thanks {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -80%);
+  color: white;
+  text-align: center;
+  font-weight: bold;
+  font-size: 30px;
 }
