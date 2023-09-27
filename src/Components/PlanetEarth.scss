@@ -2,8 +2,9 @@
 
 .planetearth {
   display: flex;
+  align-items: flex-end;
   position: relative;
-  // height: 100vh;
+  height: 114vh;
   padding: 0;
   margin: 0;
   box-sizing: border-box;
@@ -14,6 +15,7 @@
     top: 0;
     left: 0;
     width: 100vw;
+    
   }
   .section {
     height: 55rem;
@@ -92,8 +94,8 @@
       overflow: hidden;
       position: relative;
       width: 100%;
-      max-width: 100%; /* Defina uma largura máxima para evitar esticamento */
-      height: auto; 
+      max-width: 100%; 
+      height: auto;
     }
   }
 }

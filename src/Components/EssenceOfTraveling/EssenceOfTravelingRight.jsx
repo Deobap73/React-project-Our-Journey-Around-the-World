@@ -3,7 +3,7 @@ import "./EssenceOfTravelingRight.scss";
 
 const EssenceOfTravelingRight = memo(({ image, statement, title, sentences }) => {
   return (
-    <div className="right">
+    <div className="rightContainer">
     <div className="text">
       <div className="frame">
         <div className="frameChild" />
@@ -20,7 +20,7 @@ const EssenceOfTravelingRight = memo(({ image, statement, title, sentences }) =>
         </div>
       </div>
     </div>
-          <img className="imageIcon" alt="" src={image} />
+          <img className="imageIconRight" alt="" src={image} />
   </div>
   );
 });

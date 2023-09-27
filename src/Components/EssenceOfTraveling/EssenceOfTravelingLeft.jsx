@@ -3,8 +3,8 @@ import './EssenceOfTravelingLeft.scss'; // Importe o arquivo SCSS
 
 const EssenceOfTravelingLeft = memo(({ image, statement, title, sentences }) => {
   return (
-    <div className="left">
-      <img className="imageIcon" alt="" src={image} />
+    <div className="leftContainer">
+      <img className="imageIconLeft" alt="" src={image} />
       <div className="text">
         <div className="frame">
           <div className="frameChild" />

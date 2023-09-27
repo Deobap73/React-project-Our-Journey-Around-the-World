@@ -327,7 +327,7 @@
         "The cuisine reflects cultural diversity in a delicious way. From sophisticated French cuisine to the spicy flavors of Thai, each culture has its own delicacies and food preparation methods. Meals are about much more than just nutrition; they are celebrations of identity and cultural tradition",
         "Art and music are profound expressions of the human soul. From Leonardo da Vinci's Renaissance paintings to ancient African sculptures, art connects us to the past and inspires us to create the future. Music transcends borders and languages, bringing joy and emotional expression to people of all backgrounds."
       ],
-      "Image": "Caminho para a imagem editada"
+      "Image": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/ImagesContent/Sences.png"
     },
     {
       "id": "left2",
@@ -338,11 +338,11 @@
         "Climate change, biodiversity loss and environmental degradation are critical challenges facing humanity. ",
         "Educating future generations about the beauty of the Earth and the importance of cultural diversity is fundamental to protecting our planet."
       ],
-      "Image": "Caminho para a imagem editada"
+      "Image": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/ImagesContent/Responsibility.png"
     },
     {
       "id": "Right1",
-      "Statement": "A FEELING",
+      "Statement": "FEELING",
       "Title": "Human Cultural Diversity",
       "Sentences": [
         "Earth is a mosaic of cultures, traditions and languages. Cultural diversity is one of our planet’s greatest assets. Each people and each community protected with its own history, art, music, cuisine and much more to the rich tapestry of human culture.",
@@ -350,7 +350,7 @@
         "Linguistic diversity is a testament to this, with thousands of languages spoken across the world. From Italian to Arabic, from Spanish to Portuguese, each language is a window into a unique view of the world."
 
     ],
-      "Image": "Caminho para a imagem editada"
+      "Image": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/ImagesContent/AFelling.png"
     },
     {
       "id": "Right2",
@@ -365,7 +365,7 @@
 
         "Music and dance are a universal language that transcends cultural barriers and reflects people's joy, sadness, celebration and history."
       ],
-      "Image": "Caminho para a imagem editada"
+      "Image": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/ImagesContent/Mankind.png"
     }
   ]
 }
