@@ -1,11 +1,12 @@
-.container {
+.footer{
   list-style-type: none;
+  margin-top: 4rem;
   display: flex;
   flex-direction: row;
   justify-content: space-around;
   align-items: center;
-
   color: white;
+  height:14rem;
 }
 
 .imageHolder {

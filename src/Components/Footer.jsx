@@ -3,7 +3,7 @@ import "./Footer.css";
 
 function Footer() {
   return (
-    <ul className="container">
+    <ul className="footer">
       <li>©️ Copyright - Barbara Papa</li>
       <li>©️ Copyright - Masouma Rasouli</li>
       <li>

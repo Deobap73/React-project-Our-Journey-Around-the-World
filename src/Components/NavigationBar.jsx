@@ -1,51 +1,35 @@
-
-import React from "react";
+import { Link } from "react-router-dom"; 
 import "./NavigationBar.css";
 
 function NavigationBar() {
-<<<<<<< HEAD
   return (
-    <ul className="container">
+    <ul className="navigationBar">
       <li>
         {" "}
-        <a href="#">HOME</a>{" "}
+        <Link to="/">Home</Link>{" "}
       </li>
       <li>
         {" "}
-        <a href="#">ABOUT US</a>
+        <Link to="/aboutUs">AboutUs</Link>
       </li>
       <li>
         {" "}
-        <a href="#">THE PROJECT</a>
+        <Link to="/project">TheProject</Link>
       </li>
       <li>
         {" "}
-        <a href="#">LOCATIONS</a>
+        <Link to="/locations">Locations</Link>
       </li>
       <li>
         {" "}
-        <a href="#">GALLERY</a>
+        <Link to="/gallery">Gallery</Link>
       </li>
       <li>
         {" "}
-        <a href="#">CONTACT</a>
+        <Link to="/contact">Contact</Link>
       </li>
     </ul>
   );
-=======
- 
-  return (
-   <ul className="container" >
-<li> <a href="#">HOME</a> </li>
-<li> <a href="#">ABOUT US</a></li>
-<li>  <a href="#">THE PROJECT</a></li>
-<li> <a href="#">LOCATIONS</a></li>
-<li> <a href="#">GALLERY</a></li>
-<li> <a href="#">CONTACT</a></li>
-
-   </ul>
-  )
->>>>>>> 37b028c17c17b4c2f6d35db2eb4cbdaf4c5abf94
 }
 
 export default NavigationBar;
