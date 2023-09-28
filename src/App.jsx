@@ -1,6 +1,10 @@
 import "./App.css";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import Footer from "./Components/Footer";
+
+import PlanetEarth from "./Components/PlanetEarth";
+import EssenceOfTraveling from "./Components/EssenceOfTraveling/EssenceOfTraveling";
+
 import NavigationBar from "./Components/NavigationBar";
 import Home from "./Pages/Home";
 import { TheProject } from "./Pages/TheProject";
@@ -8,6 +12,7 @@ import { AboutUs } from "./Pages/AboutUs";
 import { Locations } from "./Pages/Locations";
 import { Gallery } from "./Pages/Gallery";
 import { Contact } from "./Pages/Contact";
+
 
 function App() {
   return (

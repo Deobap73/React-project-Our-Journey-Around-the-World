@@ -70,7 +70,6 @@
         "The Eiffel Tower was supposed to be a temporary installation, intended to stand for 20 years after being built for the 1889 World Fair.",
         "Mona Lisa rests inside a bullet-proof glass structure."
       ],
-
       "images1": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Diego-Paris/Eiffel.webp?token=GHSAT0AAAAAACEDARCRUEBX5PP2ZVVI2GQEZIRQR3Q",
       "images2": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Diego-Paris/MonaLisa.webp?token=GHSAT0AAAAAACEDARCQNEULAZNRRI6VHHKAZIRQSPA",
       "images3": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Diego-Paris/SacreCoeur.webp?token=GHSAT0AAAAAACEDARCRBFOYAD3EV7ZEA4L6ZIRQTBQ",
@@ -302,7 +301,6 @@
       "letterImage": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/Letters/K_Kotor.webp"
     }
   ],
-
   "data": [
     {
       "id": "left1",
@@ -331,7 +329,6 @@
       "Title": "Human Cultural Diversity",
       "Sentences": [
         "Earth is a mosaic of cultures, traditions and languages. Cultural diversity is one of our planet’s greatest assets. Each people and each community protected with its own history, art, music, cuisine and much more to the rich tapestry of human culture.",
-
         "Linguistic diversity is a testament to this, with thousands of languages spoken across the world. From Italian to Arabic, from Spanish to Portuguese, each language is a window into a unique view of the world."
       ],
       "Image": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/ImagesContent/AFelling.png"
@@ -339,15 +336,11 @@
     {
       "id": "Right2",
       "Statement": "MANKIND",
-      "Title": "Seu título aqui",
+      "Title": "Universal languages",
       "Sentences": [
-        "Just as the Earth is rich in natural diversity, it is also rich in cultural diversity. Human culture is an expression of the creativity and diversity of the human mind, shaped by centuries of history, geography and experience. ",
-
-        "Tongues and Idioms: Earth is home to a vast diversity of languages, each with its own genetics.",
-
-        "Art that transcends borders and languages, allowing people to express their worldview. From sculptures to paintings, from architecture to performing arts. ",
-
-        "Music and dance are a universal language that transcends cultural barriers and reflects people's joy, sadness, celebration and history."
+        "Human culture is an expression of the creativity and diversity of the human mind, shaped by centuries of history, geography and experience. ",
+        "Earth is home to a vast diversity of languages, each with its own genetics. Art that transcends borders and languages, allowing people to express their worldview",
+        "Music and dance are a universal language that transcends cultural barriers and reflects people's joy, sadness, celebration and history. "
       ],
       "Image": "https://raw.githubusercontent.com/Deobap73/React-project-Our-Journey-Around-the-World-Images/main/ImagesContent/Mankind.png"
     }
