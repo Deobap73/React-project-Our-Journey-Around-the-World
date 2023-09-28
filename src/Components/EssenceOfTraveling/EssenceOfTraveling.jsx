@@ -1,8 +1,8 @@
 // src/Components/EssenceOfTraveling.jsx
 import './EssenceOfTraveling.scss';
-import EssenceOfTravelingLeft from "./EssenceOfTraveling/EssenceOfTravelingLeft";
-import EssenceOfTravelingRight from "./EssenceOfTraveling/EssenceOfTravelingRight";
-import data from "../api/projectTravel.json";
+import EssenceOfTravelingLeft from "./EssenceOfTravelingLeft";
+import EssenceOfTravelingRight from "./EssenceOfTravelingRight";
+import data from "../../api/projectTravel.json";
 
 function EssenceOfTraveling() {
   let isLeft = true; // Variable to track the current type

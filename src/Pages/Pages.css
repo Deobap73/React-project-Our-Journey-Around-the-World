@@ -122,6 +122,7 @@
         height: auto;
       }
 
+
       .contactcontainer {
         width: 100%;
     
@@ -140,3 +141,10 @@
 .githubinfo{
   font-size: 80%;
 }
+
+
+      strong {
+        font-size: 1.3em; 
+       
+      }
+

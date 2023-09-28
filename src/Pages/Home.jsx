@@ -2,8 +2,8 @@ import { useState } from "react";
 import WorldMap from "../Components/WorldMap";
 import data from "../api/projectTravel.json";
 import PlanetEarth from "../Components/PlanetEarth";
-import EssenceOfTraveling from "../Components/EssenceOfTraveling";
 import CityContainer from "../Components/CityContainer";
+import EssenceOfTraveling from "../Components/EssenceOfTraveling/EssenceOfTraveling";
 
 export default function Home() {
   const [selectedPerson, setSelectedPerson] = useState({});
