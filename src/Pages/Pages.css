@@ -86,6 +86,7 @@ video {
 }
 
 
+
 .home {
   position: relative;
   margin-bottom: 2rem;
@@ -143,3 +144,30 @@ span {
   max-width: 100%;
   height: auto;
 }
+
+      .contactcontainer {
+        width: 100%;
+    
+      }
+      .contactinfo{
+        display: flex;
+        flex-wrap: wrap;
+        width: 60%;
+        margin-left: 50%;
+        gap:5%
+      }
+
+.emailinfo{
+  font-size: 80%;
+}
+.githubinfo{
+  font-size: 80%;
+}
+
+
+      strong {
+        font-size: 1.3em; 
+       
+      }
+
+

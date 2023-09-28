@@ -9,6 +9,7 @@ import { Locations } from "./Pages/Locations";
 import { Gallery } from "./Pages/Gallery";
 import { Contact } from "./Pages/Contact";
 
+
 function App() {
   return (
     <>
