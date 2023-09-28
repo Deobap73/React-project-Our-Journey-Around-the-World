@@ -1,6 +1,6 @@
 import "./Pages.css"; // Import your styles
 import planet from "../assets/ezgif.com-crop.mp4";
-import data from "../api/projectTravel.json";
+
 
 export const Locations = () => {
   
