@@ -1,8 +1,8 @@
-.navigationBar{
+.navigationBar {
   position: absolute;
   top: 0;
   left: 0;
-  width: 100%; 
+  width: 100%;
   list-style-type: none;
   display: flex;
   flex-direction: row;
@@ -15,4 +15,8 @@
 a {
   text-decoration: none;
   color: white;
+}
+
+a:hover {
+  color: var(--blue);
 }

@@ -4,12 +4,12 @@ import planet from "../assets/ezgif.com-crop.mp4";
 import "./PlanetEarth.scss"; // Import your styles
 
 function PlanetEarth({}) {
-
   const [buttonClicked, setButtonClicked] = useState(false);
 
   const handleButtonClick = () => {
     // Role a página para o componente EssenceOfTraveling
-    const essenceOfTravelingElement = document.getElementById("essenceOfTraveling");
+    const essenceOfTravelingElement =
+      document.getElementById("essenceOfTraveling");
     if (essenceOfTravelingElement) {
       essenceOfTravelingElement.scrollIntoView({ behavior: "smooth" });
       setButtonClicked(true);
@@ -19,18 +19,9 @@ function PlanetEarth({}) {
   return (
     <section className="planetEarthHome">
       {/* <div class="video-wrapper"> */}
-      
-      <video
-  playsInline
-  autoPlay
-  muted
-  loop
-  src={planet}
-  type="video/mp4"
 
-  
-/>
-    
+      <video playsInline autoPlay muted loop src={planet} type="video/mp4" />
+
       <div className="sectionHome">
         <div className="mainHome">
           <div className="home">Our Journey in the World</div>

@@ -14,19 +14,22 @@ export const AboutUs = () => {
           <div className="frame">
             <div className="earthItsSomethingContainer">
               <p className="earthItsSomething">
-              <strong>Masouma Rasouli:</strong> I embark on journeys to discover myself and
-                ascertain my position in this vast world.
+                <strong>Masouma Rasouli:</strong> I embark on journeys to
+                discover myself and ascertain my position in this vast world.
               </p>
               <p className="earthItsSomething"></p>
               <p className="earthItsSomething">
-              <strong> Deolingo Baptista: </strong> I like traveling because each road hides a
-                story and each destination reveals a piece of me.
+                <strong> Deolingo Baptista: </strong> I like traveling because
+                each road hides a story and each destination reveals a piece of
+                me.
               </p>
               <p className="earthItsSomething">
-              <strong> Barbara Papa: </strong>  Traveling has always been in my DNA, being curious to discover the world is a necessity
+                <strong> Barbara Papa: </strong> Traveling has always been in my
+                DNA, being curious to discover the world is a necessity
               </p>
               <p className="earthItsSomething">
-              <strong>Diego LLerena: </strong>  I love to travel to make the haters jealous.
+                <strong>Diego LLerena: </strong> I love to travel to make the
+                haters jealous.
               </p>
               <p className="earthItsSomething"></p>
             </div>

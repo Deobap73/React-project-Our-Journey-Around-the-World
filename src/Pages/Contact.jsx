@@ -36,7 +36,7 @@ export const Contact = () => {
           <div className="home">Contacts</div>
           <div className="frame">
             <div className="contactcontainer">
-              <div >
+              <div>
                 <div className="contactinfo">
                   {team.map((el, index) => (
                     <div key={index}>

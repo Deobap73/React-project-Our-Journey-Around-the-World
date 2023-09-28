@@ -1,14 +1,16 @@
-import React from 'react';
-import './Pages.css'; 
+import React from "react";
+import "./Pages.css";
 import planet from "../assets/ezgif.com-crop.mp4";
 import data from "../api/projectTravel.json";
 
 export const Gallery = () => {
-  const images = data.users.map(user => user.images1);
+  const images = data.users.map((user) => user.images1);
 
   // Function to shuffle images randomly
   const shuffleArray = (array) => {
-    let currentIndex = array.length, randomIndex, tempValue;
+    let currentIndex = array.length,
+      randomIndex,
+      tempValue;
 
     while (currentIndex !== 0) {
       randomIndex = Math.floor(Math.random() * currentIndex);
@@ -31,7 +33,7 @@ export const Gallery = () => {
       <div className="sectionGallery">
         <div className="mainGallery">
           <div className="homeGallery">Gallery</div>
-          <div className='gallery'>
+          <div className="gallery">
             {/*Map the scrambled images and create image elements for each one */}
             {shuffledImages.slice(0, 9).map((image, index) => (
               <img key={index} src={image} alt={`Image ${index + 1}`} />

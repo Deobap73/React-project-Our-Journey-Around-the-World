@@ -26,27 +26,27 @@ export const TheProject = () => {
                 single line of code.{" "}
               </p>
               <p className="projectDescription">
-                <span>Photoshop:</span> Photoshop was a valuable tool for manipulating images
-                and graphics. It allowed us to create and edit custom visual
-                elements, such as image manipulation, as well as adjust the
-                overall aesthetic of the project.
+                <span>Photoshop:</span> Photoshop was a valuable tool for
+                manipulating images and graphics. It allowed us to create and
+                edit custom visual elements, such as image manipulation, as well
+                as adjust the overall aesthetic of the project.
               </p>
               <p className="projectDescription">
-              <span>Visual Studio Code:</span> Visual Studio Code (VS Code) is a highly
-                popular integrated development environment (IDE) for coding in
-                JavaScript and React.{" "}
+                <span>Visual Studio Code:</span> Visual Studio Code (VS Code) is
+                a highly popular integrated development environment (IDE) for
+                coding in JavaScript and React.{" "}
               </p>
               <p className="projectDescription">
-              <span>SCSS:</span> SCSS (Sass) This made project styling more efficient and
-                organized, ensuring a consistent look throughout the
-                application.
+                <span>SCSS:</span> SCSS (Sass) This made project styling more
+                efficient and organized, ensuring a consistent look throughout
+                the application.
               </p>
               <p className="projectDescription">
-              <span>React Vite:</span> React Vite is a rapid development environment for
-                React projects. Its optimized configuration and fast reloading
-                made development agile and effective. Additionally, the React
-                framework made it easy to create reusable components and manage
-                application state.
+                <span>React Vite:</span> React Vite is a rapid development
+                environment for React projects. Its optimized configuration and
+                fast reloading made development agile and effective.
+                Additionally, the React framework made it easy to create
+                reusable components and manage application state.
               </p>
             </div>
           </div>

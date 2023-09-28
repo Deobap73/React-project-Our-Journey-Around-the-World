@@ -1,4 +1,4 @@
-import './Pages.css'; // Import your styles
+import "./Pages.css"; // Import your styles
 import planet from "../assets/ezgif.com-crop.mp4";
 
 export const Locations = () => {
