@@ -1,6 +1,6 @@
 /* src/Components/PlanetEarth.scss*/
 
-.planetEarth{
+.planetEarth {
   display: flex;
   align-items: flex-end;
   position: relative;
@@ -11,114 +11,135 @@
   text-align: left;
   color: white;
 }
-  video {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-  }
-  .section {
-    height: 55rem;
-    display: flex;
-    flex-direction: column;
-    align-items: flex-end;
-    justify-content: flex-start;
-    z-index: 1;
-  }
-    .main {
-      margin-right: 5rem;
-      display: flex;
-      justify-content: center;
-      flex-direction: column;
-      height: 45.38rem;
-      align-items: flex-end;
-      padding: 0;
-      box-sizing: border-box;
-      gap: var(--gap-17xl);
-    }
-      .home {
-        position: relative;
-        font-size: 2rem;
-        font-size: var(--font-size-13xl);
-        color: var(--color-white);
-        font-family: var(--font-fugaz-one);
-      }
-      .frame {
-        display: flex;
-        justify-content: center;
-        flex-direction: column;
-        height: 17.06rem;
-        overflow: hidden;
-        flex-shrink: 0;
-        align-items: center;
-        gap: 2.13rem;
-        text-align: justify;
-        font-size: var(--font-size-base);
-        font-family: var(--font-actor);
-      }
-        .earthItsSomethingContainer {
-          position: relative;
-          display: inline-block;
-          width: 25.63rem;
-          height: 12.5rem;
-          flex-shrink: 0;
-        }
-          .earthItsSomething {
-            margin-bottom: 1rem;
-          }
-        
-     
-     
-    .mainProject {
-      margin-right: 5rem;
-      display: flex;
-      justify-content: flex-start;
-      flex-direction: column;
-      height: 45.38rem;
-      align-items: flex-end;
-      padding: 0;
-      box-sizing: border-box;
-    }
-      .home {
-        position: relative;
-        margin-bottom: 2rem;
-        font-size: 2rem;
-        font-size: var(--font-size-13xl);
-        color: var(--color-white);
-        font-family: var(--font-fugaz-one);
-      }
-      .frameProject {
-        display: flex;
-        justify-content: flex-start;
-        flex-direction: column;
-        height: 40rem;
-        align-items: center;
-        text-align: justify;
-        font-size: var(--font-size-base);
-        font-family: var(--font-actor);
-      }
-        .projectContainer {
-          position: relative;
-          display: inline-block;
-          width: 30rem;
-          height: 12.5rem;
-          flex-shrink: 0;
-        }
-          .projectDescription {
-            line-height: 1.3rem;
-            margin-bottom: 1.5rem;
-          }
-            span {
-              font-weight: bolder;
-              font-style: italic;
-            }
-     
-      
-      .sectionChild {
-        overflow: hidden;
-        position: relative;
-        width: 800%;
-        max-width: 100%;
-        height: auto;
-      }
+video {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+.section,
+.sectionGallery {
+  height: 55rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  z-index: 1;
+}
+.main {
+  margin-right: 5rem;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  height: 45.38rem;
+  align-items: flex-end;
+  padding: 0;
+  box-sizing: border-box;
+  gap: var(--gap-17xl);
+}
+.home,
+.homeGallery {
+  position: relative;
+  font-size: 2rem;
+  font-size: var(--font-size-13xl);
+  color: var(--color-white);
+  font-family: var(--font-fugaz-one);
+}
+.frame {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  height: 17.06rem;
+  overflow: hidden;
+  flex-shrink: 0;
+  align-items: center;
+  gap: 2.13rem;
+  text-align: justify;
+  font-size: var(--font-size-base);
+  font-family: var(--font-actor);
+}
+.earthItsSomethingContainer {
+  position: relative;
+  display: inline-block;
+  width: 25.63rem;
+  height: 12.5rem;
+  flex-shrink: 0;
+}
+.earthItsSomething {
+  margin-bottom: 1rem;
+}
 
+.mainProject,
+.mainGallery {
+  margin-right: 5rem;
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: column;
+  height: 45.38rem;
+  align-items: flex-end;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.homeGallery {
+  margin-bottom: 1.5rem;
+}
+
+
+.home {
+  position: relative;
+  margin-bottom: 2rem;
+  font-size: 2rem;
+  font-size: var(--font-size-13xl);
+  color: var(--color-white);
+  font-family: var(--font-fugaz-one);
+}
+.frameProject {
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: column;
+  height: 40rem;
+  align-items: center;
+  text-align: justify;
+  font-size: var(--font-size-base);
+  font-family: var(--font-actor);
+}
+
+.gallery {
+  display: flex;
+  width: 30rem;
+  height: 12.5rem;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  gap: 1rem;
+}
+
+.gallery img {
+  width: 8rem;
+  object-fit: cover;
+  height: 10rem;
+}
+
+.projectContainer {
+  position: relative;
+  display: inline-block;
+  width: 30rem;
+  height: 12.5rem;
+  flex-shrink: 0;
+}
+.projectDescription {
+  line-height: 1.3rem;
+  margin-bottom: 1.5rem;
+}
+span {
+  font-weight: bolder;
+  font-style: italic;
+}
+
+.sectionChild {
+  overflow: hidden;
+  position: relative;
+  width: 800%;
+  max-width: 100%;
+  height: auto;
+}

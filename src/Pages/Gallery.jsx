@@ -1,34 +1,41 @@
-import './Pages.css'; // Import your styles
+import React from 'react';
+import './Pages.css'; 
 import planet from "../assets/ezgif.com-crop.mp4";
+import data from "../api/projectTravel.json";
 
 export const Gallery = () => {
+  const images = data.users.map(user => user.images1);
+
+  // Function to shuffle images randomly
+  const shuffleArray = (array) => {
+    let currentIndex = array.length, randomIndex, tempValue;
+
+    while (currentIndex !== 0) {
+      randomIndex = Math.floor(Math.random() * currentIndex);
+      currentIndex--;
+
+      tempValue = array[currentIndex];
+      array[currentIndex] = array[randomIndex];
+      array[randomIndex] = tempValue;
+    }
+
+    return array;
+  };
+
+  // Shuffle the images
+  const shuffledImages = shuffleArray(images);
+
   return (
     <section className="planetEarth">
-      {/* <div class="video-wrapper"> */}
-
       <video playsInline autoPlay muted loop src={planet} type="video/mp4" />
-
-      <div className="section">
-        <div className="main">
-          <div className="home">Gallery</div>
-          <div className="frame">
-            <div className="earthItsSomethingContainer">
-              <p className="earthItsSomething">
-                Earth! It's something that never ceases to surprise us. With its
-                stunning landscapes, vast oceans, towering mountains, and
-                incredible diversity of life, Earth is truly a remarkable place.
-                A planet full of life, which manifests itself in extraordinary
-                ways in every corner of the globe.
-              </p>
-              <p className="earthItsSomething"></p>
-              <p className="earthItsSomething">
-                This is a website where 4 people report in images their
-                experience that enriches their lives, but also makes them aware
-                of the importance of preserving this wonderful planet for future
-                generations
-              </p>
-              <p className="earthItsSomething"></p>
-            </div>
+      <div className="sectionGallery">
+        <div className="mainGallery">
+          <div className="homeGallery">Gallery</div>
+          <div className='gallery'>
+            {/*Map the scrambled images and create image elements for each one */}
+            {shuffledImages.slice(0, 9).map((image, index) => (
+              <img key={index} src={image} alt={`Image ${index + 1}`} />
+            ))}
           </div>
         </div>
         <img className="sectionChild" alt="" src="/frame-2@2x.png" />
