@@ -1,7 +1,9 @@
 import "./Pages.css"; // Import your styles
 import planet from "../assets/ezgif.com-crop.mp4";
 
+
 export const Locations = () => {
+  
   return (
     <section className="planetEarth">
       {/* <div class="video-wrapper"> */}
@@ -13,21 +15,30 @@ export const Locations = () => {
           <div className="home">Locations</div>
           <div className="frame">
             <div className="earthItsSomethingContainer">
-              <p className="earthItsSomething">
-                Earth! It's something that never ceases to surprise us. With its
-                stunning landscapes, vast oceans, towering mountains, and
-                incredible diversity of life, Earth is truly a remarkable place.
-                A planet full of life, which manifests itself in extraordinary
-                ways in every corner of the globe.
-              </p>
-              <p className="earthItsSomething"></p>
-              <p className="earthItsSomething">
-                This is a website where 4 people report in images their
-                experience that enriches their lives, but also makes them aware
-                of the importance of preserving this wonderful planet for future
-                generations
-              </p>
-              <p className="earthItsSomething"></p>
+            <div style={{marginLeft:"10rem"}} className="City-title">
+           <ul >
+            <li>Spain, Mardid</li>
+            <li>Afghanistan, Herat</li>
+            <li>Italy, Rome</li>
+            <li>Italy, Venice</li>
+            <li>Mexico City, Mexico</li>
+            <li>United Arab Emirates, Dubai</li>
+            <li>Kotor, Montonegro</li>
+            <li>Italy, Salo</li>
+            <li>Czech Republic, Prague </li>
+            <li>France, Paris</li>
+            <li>Tallin, Estonia</li>
+            <li>Germany, Helgoland</li>
+            <li>United Kingdom, London</li>
+            <li>Netherlands, Amsterdam</li>
+            <li>Peru, Cuzco</li>
+            <li>Portugal, Porto</li>
+            <li>Spain, Tarifa</li>
+            <li>Marocco, Dakhla</li>
+            <li>Canada, Quebec</li>
+            <li>USA, New York</li>
+           </ul>
+            </div>
             </div>
           </div>
         </div>
