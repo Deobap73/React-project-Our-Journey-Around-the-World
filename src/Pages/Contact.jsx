@@ -1,10 +1,32 @@
-import './Pages.css'; // Import your styles
+import "./Pages.css"; // Import your styles
 import planet from "../assets/ezgif.com-crop.mp4";
 
 export const Contact = () => {
-  return (
-    <section className="planetEarth"> 
+  const team = [
+    {
+      Name: "Deolindo Baptista",
+      Email: "deo.baptista73@gmail.com",
+      Github: "https://github.com/Deobap73",
+    },
+    {
+      Name: "Barbara Papa",
+      Email: "barbara.papa.d@gmail.com ",
+      Github: "barbara-papa-30980a106/",
+    },
+    {
+      Name: "Diego LLerena",
+      Email: "diegollerena77@gmail.com ",
+      Github: "https://github.com/LLDieg",
+    },
+    {
+      Name: "Masouma Rasouli",
+      Email: "masouma.rasouli@yahoo.com ",
+      Github: "https://github.com/Masouma-Rasouli",
+    },
+  ];
 
+  return (
+    <section className="planetEarth">
       {/* <div class="video-wrapper"> */}
 
       <video playsInline autoPlay muted loop src={planet} type="video/mp4" />
@@ -13,22 +35,18 @@ export const Contact = () => {
         <div className="main">
           <div className="home">Contacts</div>
           <div className="frame">
-            <div className="earthItsSomethingContainer">
-              <p className="earthItsSomething">
-                Earth! It's something that never ceases to surprise us. With its
-                stunning landscapes, vast oceans, towering mountains, and
-                incredible diversity of life, Earth is truly a remarkable place.
-                A planet full of life, which manifests itself in extraordinary
-                ways in every corner of the globe.
-              </p>
-              <p className="earthItsSomething"></p>
-              <p className="earthItsSomething">
-                This is a website where 4 people report in images their
-                experience that enriches their lives, but also makes them aware
-                of the importance of preserving this wonderful planet for future
-                generations
-              </p>
-              <p className="earthItsSomething"></p>
+            <div className="contactcontainer">
+              <div >
+                <div className="contactinfo">
+                  {team.map((el, index) => (
+                    <div key={index}>
+                      <h2> {el.Name}</h2>
+                      <p className="emailinfo">Email: {el.Email}</p>
+                      <p className="githubinfo">Github: {el.Github}</p>
+                    </div>
+                  ))}
+                </div>
+              </div>
             </div>
           </div>
         </div>
