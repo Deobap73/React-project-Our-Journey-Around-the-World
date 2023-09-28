@@ -5,7 +5,7 @@ import CityContainer from "./Components/CityContainer";
 import { useState } from "react";
 import Footer from "./Components/Footer";
 import PlanetEarth from "./Components/PlanetEarth";
-import EssenceOfTraveling from "./Components/EssenceOfTraveling";
+import EssenceOfTraveling from "./Components/EssenceOfTraveling/EssenceOfTraveling";
 
 function App() {
   const [selectedPerson, setSelectedPerson] = useState({});
