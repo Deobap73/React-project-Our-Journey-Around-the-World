@@ -11,6 +11,7 @@
 #### SCSS
 #### Figma
 #### Photoshop
+#### Locofy.ai
 ---
 
 
