@@ -119,7 +119,8 @@ video {
   height: 10rem;
 }
 
-.projectContainer {
+.projectContainer,
+.City-title {
   position: relative;
   display: inline-block;
   width: 30rem;
@@ -133,6 +134,10 @@ video {
 span {
   font-weight: bolder;
   font-style: italic;
+}
+
+.City-title h1 {
+  width: 5rem;
 }
 
 .sectionChild {
